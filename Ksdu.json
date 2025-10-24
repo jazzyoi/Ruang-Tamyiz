@@ -1,0 +1,5060 @@
+[
+    {
+        "ksdu": "F-3D",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MDFf/F3D.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "أَتَىى",
+                "text_latin": "ata",
+                "text_arti": "datang"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-أ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MDVf/FA%20alif.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "أَبَى",
+                "text_latin": "aba",
+                "text_arti": "enggan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ب",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MDZf/FA%20ba.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "بَدَأَ",
+                "text_latin": "badaa",
+                "text_arti": "memulai"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ت",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NDZf/FA%20ta.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "تَبِعَ",
+                "text_latin": "tabia",
+                "text_arti": "mengikuti"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ث",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NDlf/FA%20Tsa.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ثَبَتَ",
+                "text_latin": "sabata",
+                "text_arti": "tetap"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ج",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2Mjdf/FA%20Ja.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "جَبَى",
+                "text_latin": "jaba",
+                "text_arti": "menarik, mendatangkan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ح",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODY1MDdf/FA%20Hak.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "حَبَّ",
+                "text_latin": "habba",
+                "text_arti": "mencintai"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-خ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MjVf/FA%20ho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "خَرَّ",
+                "text_latin": "harra",
+                "text_arti": "jatuh"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-د",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MDdf/FA%20Dal.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "دَبَرَ",
+                "text_latin": "dabara",
+                "text_arti": "lari , membelakangi"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ذ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NTNf/FA%20zal.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ذَهَبَ",
+                "text_latin": "zahaba",
+                "text_arti": "pergi"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ر",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MzVf/FA%20Ro.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "رَبَصَ",
+                "text_latin": "rabasa",
+                "text_arti": "menantikan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ز",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NTJf/FA%20zai.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "زَعَمَ",
+                "text_latin": "zaama",
+                "text_arti": "mendakwakan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-س",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NDVf/FA%20sin.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "سَبَقَ",
+                "text_latin": "sabaka",
+                "text_arti": "mendahului"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ش",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NDFf/FA%20Shin.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "شَرِبَ",
+                "text_latin": "sariba",
+                "text_arti": "minum"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ص",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NDJf/FA%20Shod.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "اَصْبَحَ",
+                "text_latin": "asbaha",
+                "text_arti": "menjadi"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ض",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MDlf/FA%20dot.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ضَرَبَ",
+                "text_latin": "daraba",
+                "text_arti": "memukul"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ط",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NDhf/FA%20Tho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "طَبَعَ",
+                "text_latin": "tabaa",
+                "text_arti": "menerbitkan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ظ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MTBf/FA%20dzo.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ظَلَّ",
+                "text_latin": "zalla",
+                "text_arti": "mendung, teduh"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ع",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MDRf/FA%20Aen.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "عَتُدَ",
+                "text_latin": "atuda",
+                "text_arti": "menyediakan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-غ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MTNf/FA%20Gho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "غَرَّ",
+                "text_latin": "garra",
+                "text_arti": "memperdayakan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ف",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ1OTZf/FA%20fa.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "فَتَحَ",
+                "text_latin": "fataha",
+                "text_arti": "membuka"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ق",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MzNf/FA%20qof.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "قَبِلَ",
+                "text_latin": "kabila",
+                "text_arti": "menerima, mengambil"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ك",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2Mjhf/FA%20kaf.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "كَبُرَ",
+                "text_latin": "kabura",
+                "text_arti": "besar"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ل",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MzBf/FA%20Lam.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "لَبِشَ",
+                "text_latin": "labisa",
+                "text_arti": "mendiami"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-م",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MzFf/FA%20Mim.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "مَتَعَ",
+                "text_latin": "mataa",
+                "text_arti": "membawa pergi"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ن",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MzJf/FA%20Nun.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "نَبَأَ",
+                "text_latin": "nabaa",
+                "text_arti": "memberitakan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ه",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2MjJf/FA%20ha.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "هَجَرَ",
+                "text_latin": "hajara",
+                "text_arti": "berhijrah"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-و",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NTBf/FA%20waw.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "وَجَدَ",
+                "text_latin": "wajada",
+                "text_arti": "menemukan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FA-ي",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NTFf/FA%20ya.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "يَئِسَ",
+                "text_latin": "yaisa",
+                "text_arti": "putus asa"
+            }
+        ]
+    },
+    {
+        "ksdu": "FST-1",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NjJf/FST-1.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "اَذِنَ",
+                "text_latin": "azina",
+                "text_arti": "mengizinkan"
+            }
+        ]
+    },
+    {
+        "ksdu": "FST-2",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NjRf/FST-2.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "صَبَرَ",
+                "text_latin": "sabara",
+                "text_arti": "sabar"
+            }
+        ]
+    },
+    {
+        "ksdu": "I Nama",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NjZf/I%20Nama.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "إِبْرَاهِيْمُ",
+                "text_latin": "ibrahim",
+                "text_arti": "nabi ibrahim"
+            }
+        ]
+    },
+    {
+        "ksdu": "I-3D",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2Njhf/I-3D.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "أَبُوْ",
+                "text_latin": "abu",
+                "text_arti": "Bapak"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-أ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NzBf/IA%20Alif.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "أَبَدًا",
+                "text_latin": "abadan",
+                "text_arti": "selamanya"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ب",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NzFf/IA%20ba.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "بَأْسٌ",
+                "text_latin": "baksun",
+                "text_arti": "sempit"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ت",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2OTVf/IA%20Ta.aac",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "تُرَابٌ",
+                "text_latin": "turabun",
+                "text_arti": "tanah"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ح",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2Nzhf/IA%20ha.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "حَجَرٌ",
+                "text_latin": "hajarun",
+                "text_arti": "batu"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-خ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MThf/IA%20Ho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "خَبِيْرٌ",
+                "text_latin": "Habirun",
+                "text_arti": "maha tahu"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-د",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NzJf/IA%20dal.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "دَابَّةٌ",
+                "text_latin": "dabbatun",
+                "text_arti": "binatang"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ذ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3NDhf/IA%20Zal.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ذُرِّيَّةٌ",
+                "text_latin": "zurriyatun",
+                "text_arti": "keturunan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ر",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MTBf/IA%20ro.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "رَأْسٌ",
+                "text_latin": "raksun",
+                "text_arti": "kepala"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ز",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MTBf/IA%20ro.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "زَوْجٌ",
+                "text_latin": "zaujun",
+                "text_arti": "pasangan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-س",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MTdf/IA%20Sin.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "سُبْحَانَ",
+                "text_latin": "subhana",
+                "text_arti": "maha suci"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ش",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2OTJf/IA%20Shin.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "شَجَرٌ",
+                "text_latin": "sajarun",
+                "text_arti": "pohon"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ص",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MTVf/IA%20Shod.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "صَدْرٌ",
+                "text_latin": "sadrun",
+                "text_arti": "dada"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ض",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NzRf/IA%20Dot.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ضَرٌّ",
+                "text_latin": "darrun",
+                "text_arti": "mudhorot"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ط",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2OTNf/IA%20tho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "طَعَامٌ",
+                "text_latin": "taamun",
+                "text_arti": "makanan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ظ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3NDlf/IA%20Zho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "ظِلٌّ",
+                "text_latin": "zillun",
+                "text_arti": "teduh atau naungan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ع",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2Njlf/IA%20aen.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "عَبِدُوْنَ",
+                "text_latin": "abiduna",
+                "text_arti": "yang menyembah"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-غ",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3NTFf/IA%20Gho.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "غُرُوْرٌ",
+                "text_latin": "gururun",
+                "text_arti": "tipuan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ف",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2NzVf/IA%20fa.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "فُؤَادٌ",
+                "text_latin": "fuadun",
+                "text_arti": "hati"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ق",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3NDZf/IA%20Qof.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "قَتْالٌ",
+                "text_latin": "katlun",
+                "text_arti": "pembunuhan, peperangan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ك",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2ODZf/IA%20k.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "كَبِيْرٌ",
+                "text_latin": "kabirun",
+                "text_arti": "yang besar"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ل",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ2OTBf/IA%20La.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "أَلْبَابٌ",
+                "text_latin": "albabun",
+                "text_arti": "akal"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-م",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDdf/IA%20mim.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "مَتَاعٌ",
+                "text_latin": "mataun",
+                "text_arti": "kesenangan hidup"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ن",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3NDVf/IA%20Nun.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "نَبَأٌ",
+                "text_latin": "nabaun",
+                "text_arti": "kisah"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ه",
+        "link_voice": "https://od.lk/d/NjNfODIxNjQwNDRf/Isim%20Abjad%20H.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "هُدًى",
+                "text_latin": "hudan",
+                "text_arti": "petunjuk"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-و",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDhf/IA%20waw.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "مِيْثَاقٌ",
+                "text_latin": "misakun",
+                "text_arti": "perjanjian"
+            }
+        ]
+    },
+    {
+        "ksdu": "IA-ي",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3NDdf/IA%20ya.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "يَدٌ",
+                "text_latin": "yadun",
+                "text_arti": "tangan"
+            }
+        ]
+    },
+    {
+        "ksdu": "IST-1",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDJf/IST-1.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "اَخِرٌ",
+                "text_latin": "ahirun",
+                "text_arti": "akhir"
+            }
+        ]
+    },
+    {
+        "ksdu": "IST-2",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDNf/IST-2.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "دُعَاءٌ",
+                "text_latin": "duaun",
+                "text_arti": "doa"
+            }
+        ]
+    },
+    {
+        "ksdu": "IST-3",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDRf/IST-3.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "صَبْرٌ",
+                "text_latin": "sabrun",
+                "text_arti": "sabar"
+            }
+        ]
+    },
+    {
+        "ksdu": "IST-4",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDBf/IST-4.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "عَدْلٌ",
+                "text_latin": "adlun",
+                "text_arti": "adil"
+            }
+        ]
+    },
+    {
+        "ksdu": "IST-5",
+        "link_voice": "https://od.lk/s/NjNfMzg3ODQ3MDFf/IST-5.mp3",
+        "items": [
+            {
+                "text_urut": "01",
+                "text_arabic": "لِسَانٌ",
+                "text_latin": "lisanun",
+                "text_arti": "lisan"
+            }
+        ]
+    },
+    {
+        "ksdu": "",
+        "link_voice": "",
+        "items": [
+            {
+                "text_urut": "02",
+                "text_arabic": "أَجْرٌ",
+                "text_latin": "Ajrun",
+                "text_arti": "pahala"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "أَرْضٌ",
+                "text_latin": "Ardun",
+                "text_arti": "bumi,tanah"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "إِلٰهٌ",
+                "text_latin": "Ilahun",
+                "text_arti": "tuhan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "أَمْرٌ",
+                "text_latin": "Amrun",
+                "text_arti": "urusan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "أَهْلٌ",
+                "text_latin": "Ahlun",
+                "text_arti": "keluarga"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "اَيَتٌ",
+                "text_latin": "ayatun",
+                "text_arti": "tanda"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "بَعْضٌ",
+                "text_latin": "bakdun",
+                "text_arti": "sebagian"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "مُبِيْنٌ",
+                "text_latin": "Mubinun",
+                "text_arti": "yang jelas"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "جَنَّتٌ",
+                "text_latin": "Jannatun",
+                "text_arti": "surga"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "حَقٌّ",
+                "text_latin": "Haqqun",
+                "text_arti": "kebenaran"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "خَيْرٌ",
+                "text_latin": "Hairun",
+                "text_arti": "kebaikan"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "رَبٌّ",
+                "text_latin": "Rabbun",
+                "text_arti": "tuhan"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "رَحِيْمٌ",
+                "text_latin": "rahimun",
+                "text_arti": "maha pengasih"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "رَسُوْلٌ",
+                "text_latin": "rasulun",
+                "text_arti": "utusan"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "سَبِيْلٌ",
+                "text_latin": "sabilun",
+                "text_arti": "jalan"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "سَمَاءٌ",
+                "text_latin": "samaun",
+                "text_arti": "langit"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "سُوْءٌ",
+                "text_latin": "suun",
+                "text_arti": "kejahatan"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "شَيْءٌ",
+                "text_latin": "saiun",
+                "text_arti": "sesuatu"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "عَبْدٌ",
+                "text_latin": "abdun",
+                "text_arti": "hamba"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "عَذَابٌ",
+                "text_latin": "azabun",
+                "text_arti": "siksa"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "عَظِيْمٌ",
+                "text_latin": "azimun",
+                "text_arti": "maha besar"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "عَلِيْمٌ",
+                "text_latin": "alimun",
+                "text_arti": "maha mengetahui"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "قَلْبٌ",
+                "text_latin": "kalbun",
+                "text_arti": "hati"
+            },
+            {
+                "text_urut": "25",
+                "text_arabic": "كُلٌّ",
+                "text_latin": "kullun",
+                "text_arti": "semuanya"
+            },
+            {
+                "text_urut": "26A",
+                "text_arabic": "مِثْلٌ",
+                "text_latin": "mislun",
+                "text_arti": "perumpamaan"
+            },
+            {
+                "text_urut": "26B",
+                "text_arabic": "أَمْثَالٌ",
+                "text_latin": "amsalun",
+                "text_arti": "perumpamaan"
+            },
+            {
+                "text_urut": "27",
+                "text_arabic": "نَفْسٌ",
+                "text_latin": "nafsun",
+                "text_arti": "diri"
+            },
+            {
+                "text_urut": "28",
+                "text_arabic": "نَارٌ",
+                "text_latin": "narun",
+                "text_arti": "neraka"
+            },
+            {
+                "text_urut": "29",
+                "text_arabic": "نَاسٌ",
+                "text_latin": "nasun",
+                "text_arti": "manusia"
+            },
+            {
+                "text_urut": "30",
+                "text_arabic": "يَوْمٌ",
+                "text_latin": "yaumun",
+                "text_arti": "hari"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "اَثَارٌ",
+                "text_latin": "asarun",
+                "text_arti": "bekas"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "إِثْمٌ",
+                "text_latin": "ismun",
+                "text_arti": "dosa"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "أَجَلٌ",
+                "text_latin": "ajalun",
+                "text_arti": "waktu"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "أَحَدٌ",
+                "text_latin": "ahadun",
+                "text_arti": "seorang"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "إِحْدَى",
+                "text_latin": "ihda",
+                "text_arti": "seorang"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "اَخَرَ",
+                "text_latin": "ahara",
+                "text_arti": "yang lainnya"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "اَخِرِيْنَ",
+                "text_latin": "ahirina",
+                "text_arti": "orang yang kemudian"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "أَخٌ",
+                "text_latin": "ahun",
+                "text_arti": "saudara laki2"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "أُخْتٌ",
+                "text_latin": "uhtun",
+                "text_arti": "saudara perempuan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "أَخُوْ",
+                "text_latin": "ahu",
+                "text_arti": "saudara"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "اَذَانٌ",
+                "text_latin": "azanun",
+                "text_arti": "telinga"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "أَلْفٌ",
+                "text_latin": "alfun",
+                "text_arti": "seribu"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "أَلِيْمٌ",
+                "text_latin": "alimun",
+                "text_arti": "pedih"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "اَلَاءٌ",
+                "text_latin": "alaun",
+                "text_arti": "nikmat"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "أُمٌّ",
+                "text_latin": "ummun",
+                "text_arti": "ibu"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "أَمِيْنٌ",
+                "text_latin": "aminun",
+                "text_arti": "yg dipercaya"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "أُنْشَ",
+                "text_latin": "unsa",
+                "text_arti": "wanita"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "إِنْسٌ",
+                "text_latin": "insun",
+                "text_arti": "manusia"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "اَنَّى",
+                "text_latin": "anna",
+                "text_arti": "bagaimana saja"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "أَوَّلَ",
+                "text_latin": "awwala",
+                "text_arti": "yg pertama"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "اَلٌ",
+                "text_latin": "alun",
+                "text_arti": "kaum atau klrga"
+            },
+            {
+                "text_urut": "23A",
+                "text_arabic": "أُولُوْا",
+                "text_latin": "ulu",
+                "text_arti": "yang mempunyai"
+            },
+            {
+                "text_urut": "23B",
+                "text_arabic": "أُولِ",
+                "text_latin": "uli",
+                "text_arti": "yang mempunyai"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "مَأْوَى",
+                "text_latin": "makwa",
+                "text_arti": "tempat tinggal"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "بَحْرٌ",
+                "text_latin": "bahrun",
+                "text_arti": "lautan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "بَرِيْئٌ",
+                "text_latin": "bariun",
+                "text_arti": "berlepas diri"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "بَرَّا",
+                "text_latin": "barra",
+                "text_arti": "daratan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "بِرٌّ",
+                "text_latin": "birrun",
+                "text_arti": "kebaikan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "مُبَارَكٌ",
+                "text_latin": "mubarakun",
+                "text_arti": "yang diberkahi"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "بَشَرٌ",
+                "text_latin": "basarun",
+                "text_arti": "seorang manusia"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "بُشْرَى",
+                "text_latin": "busra",
+                "text_arti": "berita gembira"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "بَصِيْرٌ",
+                "text_latin": "basirun",
+                "text_arti": "maha melihat"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "بَصَرٌ",
+                "text_latin": "basarun",
+                "text_arti": "penglihatan"
+            },
+            {
+                "text_urut": "11A",
+                "text_arabic": "بَطْنٌ",
+                "text_latin": "batnun",
+                "text_arti": "perut"
+            },
+            {
+                "text_urut": "11B",
+                "text_arabic": "بُطُوْنٌ",
+                "text_latin": "butunun",
+                "text_arti": "perut"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "بَعِيْدٌ",
+                "text_latin": "baidun",
+                "text_arti": "yang jauh"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "بَغْتَةٌ",
+                "text_latin": "bagtatun",
+                "text_arti": "tiba2"
+            },
+            {
+                "text_urut": "14A",
+                "text_arabic": "بَغْيٌي",
+                "text_latin": "bagyun",
+                "text_arti": "dengki"
+            },
+            {
+                "text_urut": "14B",
+                "text_arabic": "بَغْيًي",
+                "text_latin": "bagyan",
+                "text_arti": "dengki"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "اِبْتِغَاءٌ",
+                "text_latin": "ibtigaun",
+                "text_arti": "pencarian"
+            },
+            {
+                "text_urut": "16A",
+                "text_arabic": "بَلَدٌ",
+                "text_latin": "baladun",
+                "text_arti": "negeri"
+            },
+            {
+                "text_urut": "16B",
+                "text_arabic": "بِلَادٌ",
+                "text_latin": "biladun",
+                "text_arti": "negeri"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "بَلَاغٌ",
+                "text_latin": "balagun",
+                "text_arti": "penyampaian"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "بَلَى",
+                "text_latin": "bala",
+                "text_arti": "iya demikian"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "اِبْنٌ",
+                "text_latin": "ibnun",
+                "text_arti": "putra"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "بَنِى",
+                "text_latin": "bani",
+                "text_arti": "keturunan"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "بَنَاتٌ",
+                "text_latin": "banatun",
+                "text_arti": "anak perempuan"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "بَابٌ",
+                "text_latin": "babun",
+                "text_arti": "pintu"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "بَيْتٌ",
+                "text_latin": "baitun",
+                "text_arti": "rumah"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "بَيِّنَتٌ",
+                "text_latin": "bayyinatun",
+                "text_arti": "bukti nyata"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "تَوَّابٌ",
+                "text_latin": "tawwabun",
+                "text_arti": "maha penerima taubat"
+            },
+            {
+                "text_urut": "01A",
+                "text_arabic": "ثَلَاثٌ",
+                "text_latin": "Salasun",
+                "text_arti": "tiga"
+            },
+            {
+                "text_urut": "01B",
+                "text_arabic": "ثَلَاثَتٌ",
+                "text_latin": "salasatun",
+                "text_arti": "tiga"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "ثَمَرٌ",
+                "text_latin": "samarun",
+                "text_arti": "buah"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "ثَمَنٌ",
+                "text_latin": "samanun",
+                "text_arti": "harga"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "إِثْنَيْنِ",
+                "text_latin": "isnaini",
+                "text_arti": "dua"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "ثَوَابٌ",
+                "text_latin": "sawabun",
+                "text_arti": "pahala"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "مَثْوًى",
+                "text_latin": "maswan",
+                "text_arti": "tempat tinggal"
+            },
+            {
+                "text_urut": "01A",
+                "text_arabic": "جَبَلٌ",
+                "text_latin": "jabalun",
+                "text_arti": "gunung"
+            },
+            {
+                "text_urut": "01B",
+                "text_arabic": "جِبَلٌ",
+                "text_latin": "jibalun",
+                "text_arti": "gunung"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "مُجْرِمُوْنَ",
+                "text_latin": "mujrimun",
+                "text_arti": "yang berdosa"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "جَذَاءٌ",
+                "text_latin": "jazaun",
+                "text_arti": "pembalasan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "جَمِيْعٌ",
+                "text_latin": "jamiun",
+                "text_arti": "semuanya"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "جُنَاحٌ",
+                "text_latin": "junahun",
+                "text_arti": "berdosa"
+            },
+            {
+                "text_urut": "06A",
+                "text_arabic": "جُنْدٌ",
+                "text_latin": "jundun",
+                "text_arti": "pasukan"
+            },
+            {
+                "text_urut": "06B",
+                "text_arabic": "جُنُوْدٌ",
+                "text_latin": "junudun",
+                "text_arti": "pasukan"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مَجْنُوْنٌ",
+                "text_latin": "majnunun",
+                "text_arti": "yang gila"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "جَهْرٌ",
+                "text_latin": "jahrun",
+                "text_arti": "jelas dan nyata"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "حَدِيْثٌ",
+                "text_latin": "hadisun",
+                "text_arti": "berita"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "حُدُوْدٌ",
+                "text_latin": "hududun",
+                "text_arti": "hukum"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "حَرْثٌ",
+                "text_latin": "harsun",
+                "text_arti": "tanaman"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "حَرَجٌ",
+                "text_latin": "harajun",
+                "text_arti": "sulit"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "حِزْبٌ",
+                "text_latin": "hizbun",
+                "text_arti": "pengikut"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "حَسْبٌ",
+                "text_latin": "hasbun",
+                "text_arti": "cukup"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "حِسَابٌ",
+                "text_latin": "hisabun",
+                "text_arti": "hizab"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "حُسْنٌ",
+                "text_latin": "husnun",
+                "text_arti": "kebaikan"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "حَسَنٌ",
+                "text_latin": "hasanun",
+                "text_arti": "kebaikan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "أَحْسَنُ",
+                "text_latin": "ahsanu",
+                "text_arti": "yg lebih baik"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "إِحْسَانٌ",
+                "text_latin": "ihsanun",
+                "text_arti": "cara yg baik"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "مُحْسِنُوْنَ",
+                "text_latin": "muhsinuna",
+                "text_arti": "orang yg baik"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "حَفِيْظٌ",
+                "text_latin": "hafizun",
+                "text_arti": "pemeliharaan"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "أَحَقُّ",
+                "text_latin": "ahakku",
+                "text_arti": "yg lebih berhak"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "حَكِيْمٌ",
+                "text_latin": "hakimun",
+                "text_arti": "maha bijaksana"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "حَلِيْمٌ",
+                "text_latin": "halimun",
+                "text_arti": "maha penyantun"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "حَمْدٌ",
+                "text_latin": "hamdun",
+                "text_arti": "pujian"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "حَمِيْدٌ",
+                "text_latin": "hamidun",
+                "text_arti": "maha terpuji"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "حَمِيْمٌ",
+                "text_latin": "hamimun",
+                "text_arti": "yg mendidih"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "حَنِيْفًا",
+                "text_latin": "hanifan",
+                "text_arti": "yg sangat lurus"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "مُحِيْطٌ",
+                "text_latin": "muhitun",
+                "text_arti": "yg meliputi"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "حَييٌّ",
+                "text_latin": "hayyun",
+                "text_arti": "kehidupan"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "أَحْيَاءٌ",
+                "text_latin": "ahyaun",
+                "text_arti": "kehidupan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "خِذْيٌى",
+                "text_latin": "Hizyun",
+                "text_arti": "kehinaan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "خَاسِرُوْنَ",
+                "text_latin": "Hasiruna",
+                "text_arti": "orang2 yang rugi"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "خَلِدُوْنَ",
+                "text_latin": "Haliduna",
+                "text_arti": "orang2 yang kekal"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "خَلْقٌ",
+                "text_latin": "halqun",
+                "text_arti": "penciptaan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "خَوْفٌ",
+                "text_latin": "haufun",
+                "text_arti": "ketakutan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "دُبُرٌ",
+                "text_latin": "duburun",
+                "text_arti": "belakang"
+            },
+            {
+                "text_urut": "03A",
+                "text_arabic": "دَمٌ",
+                "text_latin": "damun",
+                "text_arti": "darah"
+            },
+            {
+                "text_urut": "03B",
+                "text_arabic": "دٍمَاءٌ",
+                "text_latin": "dimaun",
+                "text_arti": "darah"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "أُدْنَ",
+                "text_latin": "adna",
+                "text_arti": "lebih dekat"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "دَارٌ",
+                "text_latin": "darun",
+                "text_arti": "kampung"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "دِيَارٌ",
+                "text_latin": "diyarun",
+                "text_arti": "kampung"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "دِيْنٌ",
+                "text_latin": "dinun",
+                "text_arti": "agama"
+            },
+            {
+                "text_urut": "02A",
+                "text_arabic": "ذِكْرٌ",
+                "text_latin": "zikrun",
+                "text_arti": "peringatan"
+            },
+            {
+                "text_urut": "02B",
+                "text_arabic": "ذِكْرَى",
+                "text_latin": "zikra",
+                "text_arti": "peringatan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "ذَكَرٌ",
+                "text_latin": "zakarun",
+                "text_arti": "laki2"
+            },
+            {
+                "text_urut": "04A",
+                "text_arabic": "ذَنْبٌ",
+                "text_latin": "zanbun",
+                "text_arti": "dosa"
+            },
+            {
+                "text_urut": "04B",
+                "text_arabic": "ذُنُوْبُ",
+                "text_latin": "zunubu",
+                "text_arti": "dosa"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "ذُوْذَاذِى",
+                "text_latin": "zuzazi",
+                "text_arti": "mempunyai"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "ذَاتُذَاتِ",
+                "text_latin": "zatuzati",
+                "text_arti": "mempunyai"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "اَرْبَعٌ",
+                "text_latin": "arbaun",
+                "text_arti": "empat"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "رَؤُفٌ",
+                "text_latin": "raufun",
+                "text_arti": "maha halus"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "رِجْسٌ",
+                "text_latin": "rijsun",
+                "text_arti": "buruk"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "مَرْجِعٌ",
+                "text_latin": "marjiun",
+                "text_arti": "tempat kembali"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "رَجُلٌ",
+                "text_latin": "rajulun",
+                "text_arti": "laki2"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "رِجَلٌ",
+                "text_latin": "rijalun",
+                "text_arti": "laki2"
+            },
+            {
+                "text_urut": "08A",
+                "text_arabic": "رِجْلٌ",
+                "text_latin": "rijlun",
+                "text_arti": "kaki"
+            },
+            {
+                "text_urut": "08B",
+                "text_arabic": "أَرْجُلٌ",
+                "text_latin": "Arjulun",
+                "text_arti": "kaki"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "رَحْمَنٌ",
+                "text_latin": "rahmanun",
+                "text_arti": "maha pengasih penyayang"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "أَرْحَامٌ",
+                "text_latin": "arhamun",
+                "text_arti": "rahim"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "رِسَالَةٌ",
+                "text_latin": "risalatun",
+                "text_arti": "ajaran"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "مُرْسَلُوْنَ",
+                "text_latin": "mursalun",
+                "text_arti": "para utusan"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "رِضْوَانٌ",
+                "text_latin": "ridwanun",
+                "text_arti": "keridhoan"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "رِيْحٌ",
+                "text_latin": "rihun",
+                "text_arti": "angin"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "رِيَحٌ",
+                "text_latin": "riyahun",
+                "text_arti": "angin2"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "رَيْبٌ",
+                "text_latin": "raybun",
+                "text_arti": "keraguan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "زِيْنَةٌ",
+                "text_latin": "zinatun",
+                "text_arti": "perhiasan"
+            },
+            {
+                "text_urut": "02A",
+                "text_arabic": "سَبْعٌ",
+                "text_latin": "sabun",
+                "text_arti": "tujuh"
+            },
+            {
+                "text_urut": "02B",
+                "text_arabic": "سَبْعَتٌ",
+                "text_latin": "sabatun",
+                "text_arti": "tujuh"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "سَاجِدُوْنَ",
+                "text_latin": "sajiduna",
+                "text_arti": "yang bersujud"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "سُجَّدًا",
+                "text_latin": "sujjadan",
+                "text_arti": "bersujud"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "سَاخِرٌ",
+                "text_latin": "sahirun",
+                "text_arti": "yang menyihir"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "سِرٌّ",
+                "text_latin": "sirrun",
+                "text_arti": "rahasia"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "سَرِيْعٌ",
+                "text_latin": "sariun",
+                "text_arti": "sangat cepat"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مُسْرِفُوْنَ",
+                "text_latin": "musrifuna",
+                "text_arti": "yang berlebihan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "مَسْكَنٌ",
+                "text_latin": "maskanun",
+                "text_arti": "kediaman"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "سُلْطَانٌ",
+                "text_latin": "sultanun",
+                "text_arti": "bukti nyata"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "سَمْعٌ",
+                "text_latin": "samun",
+                "text_arti": "pendengaran"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "سَمِيْعٌ",
+                "text_latin": "samiun",
+                "text_arti": "maha mendengar"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "مُسَمَّى",
+                "text_latin": "musamma",
+                "text_arti": "yang dinamakan"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "اِسْمٌ",
+                "text_latin": "ismun",
+                "text_arti": "nama"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "سِنِيْنَ",
+                "text_latin": "sinina",
+                "text_arti": "tahun"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "سَوْءٌ",
+                "text_latin": "sauun",
+                "text_arti": "bahaya"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "سَاعَتٌ",
+                "text_latin": "saatun",
+                "text_arti": "kiamat"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "سَوَاءٌ",
+                "text_latin": "sawaun",
+                "text_arti": "sama saja"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "شَدِيْدٌ",
+                "text_latin": "sadidun",
+                "text_arti": "sangat keras"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "أَشَدُّ",
+                "text_latin": "asaddu",
+                "text_arti": "lebih keras"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "شَرَابٌ",
+                "text_latin": "sarabun",
+                "text_arti": "minuman"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "شَرٌّ",
+                "text_latin": "sarrun",
+                "text_arti": "keburukan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "شِرْكٌ",
+                "text_latin": "sirkun",
+                "text_arti": "kemusyrikan"
+            },
+            {
+                "text_urut": "07A",
+                "text_arabic": "شَفِيْعٌ",
+                "text_latin": "safiun",
+                "text_arti": "pemberi safaat"
+            },
+            {
+                "text_urut": "07B",
+                "text_arabic": "شُفَعَاءُ",
+                "text_latin": "sufaau",
+                "text_arti": "pemberi safaat"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "شَكٌّ",
+                "text_latin": "sakkun",
+                "text_arti": "keraguan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "شَمْسٌ",
+                "text_latin": "samsun",
+                "text_arti": "matahari"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "شِمَالٌ",
+                "text_latin": "simalun",
+                "text_arti": "kiri"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "شُهَدَاءٌ",
+                "text_latin": "suhadaun",
+                "text_arti": "penolong"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "شَهَادَةٌ",
+                "text_latin": "sahadatun",
+                "text_arti": "kesaksian"
+            },
+            {
+                "text_urut": "13A",
+                "text_arabic": "شَهْرٌ",
+                "text_latin": "sahrun",
+                "text_arti": "bulan"
+            },
+            {
+                "text_urut": "13B",
+                "text_arabic": "أشْهُرٌ",
+                "text_latin": "ashurun",
+                "text_arti": "bulan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "صُدُوْرٌ",
+                "text_latin": "sudurun",
+                "text_arti": "dada"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "صِدْقٌ",
+                "text_latin": "sidkun",
+                "text_arti": "kebenaran"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "صَادِقُوْنَ",
+                "text_latin": "sadikuna",
+                "text_arti": "orang2 yg benar"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "مُصَدِّقٌ",
+                "text_latin": "musaddiqun",
+                "text_arti": "yang membenarkan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "صِرَاطٌ",
+                "text_latin": "siratun",
+                "text_arti": "jalan"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "صُمٌّ",
+                "text_latin": "summun",
+                "text_arti": "orang yg tuli"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "صُوْرٌ",
+                "text_latin": "surun",
+                "text_arti": "sangkakala"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "صَيْهَةٌ",
+                "text_latin": "saihatun",
+                "text_arti": "suara keras"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "مَصِيْرٌ",
+                "text_latin": "masirun",
+                "text_arti": "tempat kembali"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "ضُرٌّ",
+                "text_latin": "durrun",
+                "text_arti": "bahaya"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "ضَلَالٌ",
+                "text_latin": "dalalun",
+                "text_arti": "sesat"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "ضَالُّوْنَ",
+                "text_latin": "dalluna",
+                "text_arti": "orang2 yg sesat"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "طَائِفَةٌ",
+                "text_latin": "taifatun",
+                "text_arti": "golongan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "طَيْبٌ",
+                "text_latin": "taibun",
+                "text_arti": "yang baik"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "طَيْرٌ",
+                "text_latin": "tairun",
+                "text_arti": "burung"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "طِيْنٌ",
+                "text_latin": "tinun",
+                "text_arti": "tanah"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "ظَنٌّ",
+                "text_latin": "zannun",
+                "text_arti": "sangkaan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "ظَهْرٌ",
+                "text_latin": "zahrun",
+                "text_arti": "permukaan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "عَدُوٌّ",
+                "text_latin": "aduwwun",
+                "text_arti": "musuh"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "مُعْرِضُوْنَ",
+                "text_latin": "mukriduna",
+                "text_arti": "yg berpaling"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "عِزَّةٌ",
+                "text_latin": "izzatun",
+                "text_arti": "kemuliaan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "عَزِيْزٌ",
+                "text_latin": "azizun",
+                "text_arti": "maha perkasa"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "عَشِيٌّى",
+                "text_latin": "asiyyun",
+                "text_arti": "waktu petang"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "عَشْرٌ",
+                "text_latin": "asrun",
+                "text_arti": "sepuluh"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "عَصَا",
+                "text_latin": "asa",
+                "text_arti": "tongkat"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "عَظْمٌ",
+                "text_latin": "azmun",
+                "text_arti": "tulang"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "عِظَمٌ",
+                "text_latin": "izamun",
+                "text_arti": "tulang"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "عِقَابٌ",
+                "text_latin": "ikabun",
+                "text_arti": "siksaan"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "عَالِمٌ",
+                "text_latin": "alimun",
+                "text_arti": "yg mengetahui"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "مَعْلُوْمٌ",
+                "text_latin": "maklumun",
+                "text_arti": "yg ditetapkan"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "أَعْلَمُ",
+                "text_latin": "aklamu",
+                "text_arti": "lebih mengetahui"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "عَلِييٌّ",
+                "text_latin": "aliyyun",
+                "text_arti": "maha tinggi"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "أَعْمَي",
+                "text_latin": "akmay",
+                "text_arti": "buta"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "عِنَبٌ",
+                "text_latin": "inabun",
+                "text_arti": "anggur"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "أَعْنَابٌ",
+                "text_latin": "aknabun",
+                "text_arti": "anggur"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "عَهْدٌ",
+                "text_latin": "ahdun",
+                "text_arti": "perjanjian"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "عَيْنٌ",
+                "text_latin": "ainun",
+                "text_arti": "mata"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "أَعْيُنٌ",
+                "text_latin": "akyunun",
+                "text_arti": "mata"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "عُيُوْىنٌ",
+                "text_latin": "uyunun",
+                "text_arti": "mata air"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "غَضَبٌ",
+                "text_latin": "gadabun",
+                "text_arti": "kemurkaan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "غَفُوْرٌ",
+                "text_latin": "gafurun",
+                "text_arti": "pengampun"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "مَغْفِرَةٌ",
+                "text_latin": "magfiratun",
+                "text_arti": "ampunan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "غَافِلٌ",
+                "text_latin": "gafilun",
+                "text_arti": "yang lalai"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "غَافِلُوْنَ",
+                "text_latin": "gafiluna",
+                "text_arti": "yang lalai"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "غَالِبُوْنَ",
+                "text_latin": "galibuna",
+                "text_arti": "yang menang"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "غُلَامٌ",
+                "text_latin": "gulamun",
+                "text_arti": "anak anak"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "غَنِيٌى",
+                "text_latin": "ganiyun",
+                "text_arti": "maha kaya"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "فَتْحٌ",
+                "text_latin": "fathun",
+                "text_arti": "kemenangan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "فَاحِشَةٌ",
+                "text_latin": "fahisatun",
+                "text_arti": "perbuatan keji"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "فَرِيْقٌ",
+                "text_latin": "farikun",
+                "text_arti": "golongan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "فَسَادٌ",
+                "text_latin": "fasadun",
+                "text_arti": "kerusakan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "مُفْسِدُوْنَ",
+                "text_latin": "mufsidun",
+                "text_arti": "orang2 yang merusak"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "فَضْلٌ",
+                "text_latin": "fadlun",
+                "text_arti": "karunia"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "فَاكِهَةٌ",
+                "text_latin": "fakihatun",
+                "text_arti": "buah"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "مُفْلِحُوْنَ",
+                "text_latin": "muflihun",
+                "text_arti": "yang beruntung"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "فُلْكٌ",
+                "text_latin": "fulkun",
+                "text_arti": "bahtera"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "فَوْزٌ",
+                "text_latin": "fauzun",
+                "text_arti": "kemenangan"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "فَاهٌ",
+                "text_latin": "fahun",
+                "text_arti": "mulut"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "قِتَالٌ",
+                "text_latin": "kitalun",
+                "text_arti": "pembunuhan, peperangan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "قَدِيْرٌ",
+                "text_latin": "kadirun",
+                "text_arti": "maha kuasa"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "قَدَرٌ",
+                "text_latin": "kadarun",
+                "text_arti": "ukuran"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "قَرِيْبٌ",
+                "text_latin": "karibun",
+                "text_arti": "dekat"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "أَقْرَبُ",
+                "text_latin": "akrabu",
+                "text_arti": "yg lebih dekat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مُسْتَقَرٌ",
+                "text_latin": "mustakarun",
+                "text_arti": "tempat tinggal"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "قُرُوْنٌ",
+                "text_latin": "kurunun",
+                "text_arti": "masa"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "قَرْيَةٌ",
+                "text_latin": "karyatun",
+                "text_arti": "negeri"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "قِسْطٌ",
+                "text_latin": "kistun",
+                "text_arti": "keadilan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "قَلِيْلٌ",
+                "text_latin": "kalilun",
+                "text_arti": "sedikit"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "قَمَرٌ",
+                "text_latin": "kamarun",
+                "text_arti": "bulan"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "قَوْلٌ",
+                "text_latin": "kawlun",
+                "text_arti": "perkataan"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "مُسْتَقِيْمٌ",
+                "text_latin": "mustakimun",
+                "text_arti": "yang sangat lurus"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "قَوِيٌّ",
+                "text_latin": "kawiyyun",
+                "text_arti": "yang maha kuat"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "كَبِيْرَةٌ",
+                "text_latin": "kabiratun",
+                "text_arti": "yang besar"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "أَكْبَرُ",
+                "text_latin": "akbaru",
+                "text_arti": "lebih besar"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "كَشِيْرٌ",
+                "text_latin": "kasirun",
+                "text_arti": "banyak"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "أَكْشَرُ",
+                "text_latin": "aksaru",
+                "text_arti": "lebih banyak"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "كَذِبٌ",
+                "text_latin": "kazibun",
+                "text_arti": "dusta"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "كَذِبُوْنَ",
+                "text_latin": "kasibuna",
+                "text_arti": "yang dusta"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مُكَذِّبُوْنَ",
+                "text_latin": "mukazzibuna",
+                "text_arti": "yang mendustakan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "كَرِيْمٌ",
+                "text_latin": "karimun",
+                "text_arti": "yang mulia"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "كَيْدٌ",
+                "text_latin": "kaidun",
+                "text_arti": "tipu daya"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "كَيْلٌ",
+                "text_latin": "kailun",
+                "text_arti": "takaran"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "لَحْمٌ",
+                "text_latin": "lahmun",
+                "text_arti": "daging"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "لَدُنْ",
+                "text_latin": "laduna",
+                "text_arti": "sisi"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "لَدَيْ",
+                "text_latin": "ladai",
+                "text_arti": "beserta"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "لِقَاءٌ",
+                "text_latin": "likaun",
+                "text_arti": "pertemuan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "لَهْوٌ",
+                "text_latin": "lahwun",
+                "text_arti": "senda gurau"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "لَيْلٌ",
+                "text_latin": "lailun",
+                "text_arti": "malam"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "لِبَاسٌ",
+                "text_latin": "libasun",
+                "text_arti": "pakaian"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "مَرَّةٌ",
+                "text_latin": "marratun",
+                "text_arti": "sekali"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "اِمْرَاَةٌ",
+                "text_latin": "imraatun",
+                "text_arti": "istri"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "مَرَضٌ",
+                "text_latin": "maradun",
+                "text_arti": "penyakit"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "مَكْرٌ",
+                "text_latin": "makrun",
+                "text_arti": "tipu daya"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "مَكَانٌ",
+                "text_latin": "makanun",
+                "text_arti": "tempat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مَلَأٌ",
+                "text_latin": "malaun",
+                "text_arti": "para pemuka"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مُلْكٌ",
+                "text_latin": "mulkun",
+                "text_arti": "kerajaan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "مُلْكًل",
+                "text_latin": "mulkan",
+                "text_arti": "kerajaan"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "مَلِكٌ",
+                "text_latin": "malikun",
+                "text_arti": "raja"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "مُلُوْكٌ",
+                "text_latin": "mulukun",
+                "text_arti": "raja"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "مِلَّةٌ",
+                "text_latin": "millatun",
+                "text_arti": "agama"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "مَالٌ",
+                "text_latin": "malun",
+                "text_arti": "harta"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "مَاءٌ",
+                "text_latin": "maun",
+                "text_arti": "air"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "نَجْمٌ",
+                "text_latin": "najmun",
+                "text_arti": "bintang+F332"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "نَجْوَى",
+                "text_latin": "najwa",
+                "text_arti": "bisikan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "نَخْلٌ",
+                "text_latin": "nahlun",
+                "text_arti": "kurma"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "نَذِيْرٌ",
+                "text_latin": "nazirun",
+                "text_arti": "pemberi peringatan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "نُذُرٌ",
+                "text_latin": "nuzurun",
+                "text_arti": "pemberi peringatan"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مُنْذِرُوْنَ",
+                "text_latin": "munziruna",
+                "text_arti": "org yag memberi, memberi peringatan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "تَنْزِيْلٌ",
+                "text_latin": "tanzilun",
+                "text_arti": "yang turun"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "نَصِيْبٌ",
+                "text_latin": "nasibun",
+                "text_arti": "bagian"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "نَصْرٌ",
+                "text_latin": "nasrun",
+                "text_arti": "pertolongan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "نَاصِرٌ",
+                "text_latin": "nasirun",
+                "text_arti": "yang menolong"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "اَنْصَارٌ",
+                "text_latin": "ansarun",
+                "text_arti": "yang menolong"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "نَصِيْرٌ",
+                "text_latin": "nasirun",
+                "text_arti": "penolong"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "نُطْفَةٌ",
+                "text_latin": "nutfatun",
+                "text_arti": "mani"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "أَنْعَامٌ",
+                "text_latin": "anamun",
+                "text_arti": "binatang ternak"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "أَنْعَامًا",
+                "text_latin": "anaman",
+                "text_arti": "binatang ternak"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "نَفْعٌ",
+                "text_latin": "nafun",
+                "text_arti": "manfaat"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "نَفْعًا",
+                "text_latin": "nafan",
+                "text_arti": "manfaat"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "نَهَرٌ",
+                "text_latin": "naharun",
+                "text_arti": "sungai"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "نَهَارٌ",
+                "text_latin": "naharun",
+                "text_arti": "siang"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "نَهَارًا",
+                "text_latin": "naharan",
+                "text_arti": "siang"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "نُيْرٌ",
+                "text_latin": "nurun",
+                "text_arti": "cahaya"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "نُيْرًا",
+                "text_latin": "nuran",
+                "text_arti": "cahaya"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "وَاحِدٌ",
+                "text_latin": "wahidun",
+                "text_arti": "satu"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "وَاحِدَةٌ",
+                "text_latin": "wahidatun",
+                "text_arti": "satu"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "وِزْرٌ",
+                "text_latin": "wizrun",
+                "text_arti": "beban"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "أَوْزَارٌ",
+                "text_latin": "awzarun",
+                "text_arti": "beban"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "وَاسِعٌ",
+                "text_latin": "wasiun",
+                "text_arti": "maha luas"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مِيْزَانٌ",
+                "text_latin": "mizanun",
+                "text_arti": "timbangan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مَوَازِيْنٌ",
+                "text_latin": "mawazinun",
+                "text_arti": "timbangan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "وَعْدٌ",
+                "text_latin": "wakdun",
+                "text_arti": "janji"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "مَوْعِدٌ",
+                "text_latin": "mawidun",
+                "text_arti": "waktu, tempat perjanjian"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "وَكِيْلٌ",
+                "text_latin": "wakilun",
+                "text_arti": "pelindung"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "وَكِيْلً",
+                "text_latin": "wakilan",
+                "text_arti": "pelindung"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "وَلَدٌ",
+                "text_latin": "waladun",
+                "text_arti": "anak"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "اَوْلَادٌ",
+                "text_latin": "awladun",
+                "text_arti": "anak"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "وَالِدَيْنِ",
+                "text_latin": "walidaini",
+                "text_arti": "ibu bapak"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "وَلِيٌى",
+                "text_latin": "waliyun",
+                "text_arti": "pelindung"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "أَوْلَى",
+                "text_latin": "awla",
+                "text_arti": "paling dekat"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "مَوْلَى",
+                "text_latin": "mawla",
+                "text_arti": "pelindung"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "وَيْلٌ",
+                "text_latin": "waylun",
+                "text_arti": "celaka"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "مُهْتَدُوْنَ",
+                "text_latin": "muhtadun",
+                "text_arti": "orang2 yg dapat petunjuk"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "هُذُوًا",
+                "text_latin": "huzuwan",
+                "text_arti": "ejekan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "هَادُوْا",
+                "text_latin": "hadu",
+                "text_arti": "yahudi"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "مُهِيْنٌ",
+                "text_latin": "muhinun",
+                "text_arti": "yang hina"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "هَوَى",
+                "text_latin": "hawa",
+                "text_arti": "hawa nafsu"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "أَهْوَاءٌ",
+                "text_latin": "ahwaun",
+                "text_arti": "hawa nafsu"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "أَيْدِيٌ",
+                "text_latin": "aidiyun",
+                "text_arti": "tangan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "يَدَيْ",
+                "text_latin": "yaday",
+                "text_arti": "di masa"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "يَسِيْرٌ",
+                "text_latin": "yasirun",
+                "text_arti": "yang mudah"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "يَمِيْنٌ",
+                "text_latin": "yaminun",
+                "text_arti": "sumpah"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "يَمِيْنٌ",
+                "text_latin": "yaminun",
+                "text_arti": "budak"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "يَوْمَئِذِ",
+                "text_latin": "yaumaizin",
+                "text_arti": "pada hari itu"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "اَخِرَةٌ",
+                "text_latin": "ahiratun",
+                "text_arti": "akhirat"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "إِذْنٌ",
+                "text_latin": "iznun",
+                "text_arti": "izin"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "أُمَّةٌ",
+                "text_latin": "ummatun",
+                "text_arti": "umat"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "اَمِنُوْنَ",
+                "text_latin": "aminuna",
+                "text_arti": "orang yg aman"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "إِيْمَانٌ",
+                "text_latin": "imanun",
+                "text_arti": "iman"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مُؤْمِنٌ",
+                "text_latin": "mukminun",
+                "text_arti": "mukmin"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "بَاطِلٌ",
+                "text_latin": "batilun",
+                "text_arti": "batil"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "تَأْوِيْلٌ",
+                "text_latin": "takwilun",
+                "text_arti": "takwil"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "حَرَامٌ",
+                "text_latin": "haramun",
+                "text_arti": "haram"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "حُكْمٌ",
+                "text_latin": "hukmun",
+                "text_arti": "hukum"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "حِكْمَةٌ",
+                "text_latin": "hikmatun",
+                "text_arti": "hikmah"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "مُخْلِصُوْنَ",
+                "text_latin": "muhlisuna",
+                "text_arti": "org2 yang iklhas"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "دَرُجَةٌ",
+                "text_latin": "darujatun",
+                "text_arti": "derajat"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "رَحْمَةٌ",
+                "text_latin": "rahmatun",
+                "text_arti": "rahmat"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "رِذْقٌ",
+                "text_latin": "rizkun",
+                "text_arti": "rezeki"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "رُوْحٌ",
+                "text_latin": "ruhun",
+                "text_arti": "ruh"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "ذَكَاةٌ",
+                "text_latin": "zakatun",
+                "text_arti": "zakat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مَسْجِيدٌ",
+                "text_latin": "masjidun",
+                "text_arti": "masjid"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "سِحْرٌ",
+                "text_latin": "sihrun",
+                "text_arti": "sihir"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "مِسْكِيْنٌ",
+                "text_latin": "miskinun",
+                "text_arti": "miskin"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "سَلآمٌ",
+                "text_latin": "salamun",
+                "text_arti": "salam"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "مُسْلِمُوْنَ",
+                "text_latin": "muslimuna",
+                "text_arti": "muslim"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "سُنَّةٌ",
+                "text_latin": "sunnatun",
+                "text_arti": "sunah"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "سُوْرَةٌ",
+                "text_latin": "suratun",
+                "text_arti": "surat"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "مُشْرِكُوْنَ",
+                "text_latin": "musrikun",
+                "text_arti": "musyrik"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "شَفَاعَةٌ",
+                "text_latin": "safaatun",
+                "text_arti": "syafaat"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "شَكُوْرٌ",
+                "text_latin": "sakurun",
+                "text_arti": "bersyukur"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "شَاكِرُوْنَ",
+                "text_latin": "sakiruna",
+                "text_arti": "orang yg bersyukur"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "صَابِرُوْنَ",
+                "text_latin": "sabiruna",
+                "text_arti": "yang sabar"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "صَاحِبٌ",
+                "text_latin": "sahibun",
+                "text_arti": "sahabat"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "صَدَقَةٌ",
+                "text_latin": "sadakatun",
+                "text_arti": "sodaqoh"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "صَالِحٌ",
+                "text_latin": "salihun",
+                "text_arti": "sholeh"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "صَالِحُوْنَ",
+                "text_latin": "salihuna",
+                "text_arti": "yang sholeh"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "صَلاَةٌ",
+                "text_latin": "salatun",
+                "text_arti": "sholat"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مُصِيْبَةٌ",
+                "text_latin": "musibatun",
+                "text_arti": "musibah"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "ظُلْمٌ",
+                "text_latin": "zulmun",
+                "text_arti": "dzolim"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "ظُلِمُوْنَ",
+                "text_latin": "dzalimun",
+                "text_arti": "yang dzolim"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "أَظْلَمُ",
+                "text_latin": "azlamu",
+                "text_arti": "lebih dholim"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "عَرَبِييٌّ",
+                "text_latin": "arabiyun",
+                "text_arti": "arab"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "مَعْرُوْفٌ",
+                "text_latin": "makrufun",
+                "text_arti": "makruf"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "عَاقِبَةٌ",
+                "text_latin": "akibatun",
+                "text_arti": "akibat"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "عٍلْمٌ",
+                "text_latin": "ilmun",
+                "text_arti": "ilmu"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "عَالَمِيْنَ",
+                "text_latin": "alamina",
+                "text_arti": "alam"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "عَمَلٌ",
+                "text_latin": "amalun",
+                "text_arti": "amal pekerjaan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "غَيْبٌ",
+                "text_latin": "ghaibun",
+                "text_arti": "yang ghoib"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "فِتْنَةٌ",
+                "text_latin": "fitnatun",
+                "text_arti": "cobaan"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "فَاسِقُوْنَ",
+                "text_latin": "fasikun",
+                "text_arti": "orang2 fasik"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "فَقٍيْرٌ",
+                "text_latin": "fakirun",
+                "text_arti": "fakir"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "قُرْبَى",
+                "text_latin": "kurba",
+                "text_arti": "kerabat"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "مَقَامٌ",
+                "text_latin": "makamun",
+                "text_arti": "maqom"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "قِيَامَةٌ",
+                "text_latin": "kiyamatun",
+                "text_arti": "kiamat"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "قَوْمٌ",
+                "text_latin": "kaumun",
+                "text_arti": "kaum"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "قُوَّةٌ",
+                "text_latin": "quwwatun",
+                "text_arti": "kuat"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "كِتَابٌ",
+                "text_latin": "kitabun",
+                "text_arti": "kitab"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "كُفْرٌ",
+                "text_latin": "kufrun",
+                "text_arti": "kafir"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "كَاقِرُوْنَ",
+                "text_latin": "kafiruna",
+                "text_arti": "orang2 kafir"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "كَلِمَةٌ",
+                "text_latin": "kalimatun",
+                "text_arti": "kalimat"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "لَعْنَةٌ",
+                "text_latin": "laknatun",
+                "text_arti": "laknat"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "مَوْةٌ",
+                "text_latin": "mautun",
+                "text_arti": "maut"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "مَيِّةٌ",
+                "text_latin": "mayyitun",
+                "text_arti": "mati"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "نَبِيٌى",
+                "text_latin": "nabiyun",
+                "text_arti": "nabi"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "نَعِيْمٌ",
+                "text_latin": "naimun",
+                "text_arti": "nikmat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مُنَافِكُوْنَ",
+                "text_latin": "munafikuna",
+                "text_arti": "orang munafik"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مُنْكَرٌ",
+                "text_latin": "munkarun",
+                "text_arti": "yang mungkar"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "وُخُوْهٌ",
+                "text_latin": "wujuhun",
+                "text_arti": "wajah"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "تَقْوَى",
+                "text_latin": "takwa",
+                "text_arti": "takwa"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "مُتَّقُوْنَ",
+                "text_latin": "muttakuna",
+                "text_arti": "orang yg bertakwa"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "يَتَامَى",
+                "text_latin": "yatama",
+                "text_arti": "anak yatim"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "اَدَمٌ",
+                "text_latin": "adam",
+                "text_arti": "nabi adam"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "إِسْرَائِلُ",
+                "text_latin": "israil",
+                "text_arti": "kaum israil"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "إِسْمَاعِيْلُ",
+                "text_latin": "ismail",
+                "text_arti": "nabi ismail"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "اَللَّهُ",
+                "text_latin": "Allah",
+                "text_arti": "Allah"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "إِبْلِيْسٌ",
+                "text_latin": "iblis",
+                "text_arti": "iblis"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "تَوْرَاةٌ",
+                "text_latin": "tauratun",
+                "text_arti": "taurat"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "شَمُوْدٌ",
+                "text_latin": "samudun",
+                "text_arti": "kaum tsamud"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "جَحِيْمٌ",
+                "text_latin": "jahimun",
+                "text_arti": "jahim"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "جِنُّ",
+                "text_latin": "jinnun",
+                "text_arti": "jin"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "جَحَنَّمٌ",
+                "text_latin": "jahannam",
+                "text_arti": "jahannam"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "دُنْيَا",
+                "text_latin": "dunya",
+                "text_arti": "dunia"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "دَاوُوْدٌ",
+                "text_latin": "daud",
+                "text_arti": "nabi daud"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "اِسْحَاقٌ",
+                "text_latin": "ishak",
+                "text_arti": "nabi ishak"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "سَعِيْرٌ",
+                "text_latin": "sairun",
+                "text_arti": "neraka sair"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "سُلَيْمَانُ",
+                "text_latin": "sulaiman",
+                "text_arti": "nabi sulaiman"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "شَيْطَانُ",
+                "text_latin": "saitan",
+                "text_arti": "setan"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "شُعَيْبٌ",
+                "text_latin": "suaib",
+                "text_arti": "nabi suaib"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "طُوْرٌ",
+                "text_latin": "turun",
+                "text_arti": "At Thur, bukit Thursina"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "عَدْنٌ",
+                "text_latin": "adnun",
+                "text_arti": "Adn, syurga Aden, Adnan"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "عَرْشٌ",
+                "text_latin": "arsun",
+                "text_arti": "arasy"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "عَادٌ",
+                "text_latin": "adun",
+                "text_arti": "kaum aad"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "عِيْسَ",
+                "text_latin": "isa",
+                "text_arti": "nabi isa"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "فِرْعَوْنُ",
+                "text_latin": "firaun",
+                "text_arti": "firaun"
+            },
+            {
+                "text_urut": "25",
+                "text_arabic": "قُرْاَنٌ",
+                "text_latin": "kuranun",
+                "text_arti": "al qur'an"
+            },
+            {
+                "text_urut": "26",
+                "text_arabic": "قُرَى",
+                "text_latin": "kura",
+                "text_arti": "kota mekkah"
+            },
+            {
+                "text_urut": "27",
+                "text_arabic": "لُوْطٌ",
+                "text_latin": "lutun",
+                "text_arti": "nabi luth"
+            },
+            {
+                "text_urut": "28",
+                "text_arabic": "مَدِيْنَةُ",
+                "text_latin": "madina",
+                "text_arti": "kota madinah"
+            },
+            {
+                "text_urut": "29",
+                "text_arabic": "مَدْيَنَ",
+                "text_latin": "madyan",
+                "text_arti": "kaum madyan"
+            },
+            {
+                "text_urut": "30",
+                "text_arabic": "مَرْيَمُ",
+                "text_latin": "maryam",
+                "text_arti": "maryam"
+            },
+            {
+                "text_urut": "31",
+                "text_arabic": "مَسِيْحٌ",
+                "text_latin": "masihun",
+                "text_arti": "nabi Isa Al Masih"
+            },
+            {
+                "text_urut": "32",
+                "text_arabic": "مَلَكٌ",
+                "text_latin": "malakun",
+                "text_arti": "malaikat"
+            },
+            {
+                "text_urut": "33",
+                "text_arabic": "مُوْسَ",
+                "text_latin": "musa",
+                "text_arti": "nabi musa"
+            },
+            {
+                "text_urut": "34",
+                "text_arabic": "اِنْجِيْلٌ",
+                "text_latin": "injil",
+                "text_arti": "injil"
+            },
+            {
+                "text_urut": "35",
+                "text_arabic": "نَصَارَى",
+                "text_latin": "nasara",
+                "text_arti": "kaum nasrani"
+            },
+            {
+                "text_urut": "36",
+                "text_arabic": "نُوْحٌ",
+                "text_latin": "nuhun",
+                "text_arti": "nabi nuh"
+            },
+            {
+                "text_urut": "37",
+                "text_arabic": "هَرُوْننُ",
+                "text_latin": "harunun",
+                "text_arti": "nabi harun"
+            },
+            {
+                "text_urut": "38",
+                "text_arabic": "يُوْسُفُ",
+                "text_latin": "yusufa",
+                "text_arti": "nabi yusuf"
+            },
+            {
+                "text_urut": "39",
+                "text_arabic": "يَعْقُبَ",
+                "text_latin": "yakuba",
+                "text_arti": "nabi yakub"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "أَخَذَ",
+                "text_latin": "ahaza",
+                "text_arti": "mengambil"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "جَعَلَ",
+                "text_latin": "jaala",
+                "text_arti": "menjadikan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "جَاءَ",
+                "text_latin": "jaa",
+                "text_arti": "datang"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "خَرَجَ",
+                "text_latin": "haraja",
+                "text_arti": "keluar"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "خَلَقَ",
+                "text_latin": "halaka",
+                "text_arti": "menciptakan"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "ذَكَرَ",
+                "text_latin": "zakara",
+                "text_arti": "mengingat"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "رَأَى",
+                "text_latin": "raa",
+                "text_arti": "melihat"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "أَرْسَلَ",
+                "text_latin": "arsala",
+                "text_arti": "mengutus"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "أَرَاضَ",
+                "text_latin": "arada",
+                "text_arti": "menginginkan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "سَأَلَ",
+                "text_latin": "saala",
+                "text_arti": "bertanya"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "سَمِعَ",
+                "text_latin": "samia",
+                "text_arti": "mendengar"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "شَاءَ",
+                "text_latin": "saa",
+                "text_arti": "menghendaki"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "ضَلَّ",
+                "text_latin": "dalla",
+                "text_arti": "sesat"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "عَلِمَ",
+                "text_latin": "alima",
+                "text_arti": "tahu"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "غَفَرَ",
+                "text_latin": "ghafara",
+                "text_arti": "ampun"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "قَتَلَ",
+                "text_latin": "katala",
+                "text_arti": "membunuh"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "قَالَ",
+                "text_latin": "kala",
+                "text_arti": "berkata"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "قَامَ",
+                "text_latin": "kama",
+                "text_arti": "berdiri"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "كَذَبَ",
+                "text_latin": "kazaba",
+                "text_arti": "berdusta"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "لَقِيَى",
+                "text_latin": "lakiya",
+                "text_arti": "bertemu"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "نَزَلَ",
+                "text_latin": "nazala",
+                "text_arti": "turun"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "نَظَرَ",
+                "text_latin": "nazara",
+                "text_arti": "memandang"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "وَقَي",
+                "text_latin": "waka",
+                "text_arti": "bertakwa"
+            },
+            {
+                "text_urut": "25",
+                "text_arabic": "وَلِيىَ",
+                "text_latin": "waliya",
+                "text_arti": "melindungi"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "أَخَّرَ",
+                "text_latin": "ahhara",
+                "text_arti": "mengakhirkan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "أَذِيَ",
+                "text_latin": "aziya",
+                "text_arti": "mudhorot"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "أَفَكَ",
+                "text_latin": "afaka",
+                "text_arti": "berdusta"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "أَكَلَ",
+                "text_latin": "akala",
+                "text_arti": "makan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "أَمَرَ",
+                "text_latin": "amara",
+                "text_arti": "memerintah"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "أَوَى",
+                "text_latin": "awa",
+                "text_arti": "berlindung"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "يَبْدَأُ",
+                "text_latin": "yabdau",
+                "text_arti": "memulai"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "بَدَا",
+                "text_latin": "badaa",
+                "text_arti": "menampakkan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "بَدَلَ",
+                "text_latin": "badala",
+                "text_arti": "mengganti"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "بَرَأَ",
+                "text_latin": "baraa",
+                "text_arti": "menciptakan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "بَسَطَ",
+                "text_latin": "basata",
+                "text_arti": "membentangkan"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "بَشَرَ",
+                "text_latin": "basara",
+                "text_arti": "kabar gembira"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "بَصُرَ",
+                "text_latin": "basura",
+                "text_arti": "melihat"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "بَعَشَ",
+                "text_latin": "baasa",
+                "text_arti": "bangkit"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "بَغَى",
+                "text_latin": "bagha",
+                "text_arti": "mencari"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "بَقِيَى",
+                "text_latin": "bakiya",
+                "text_arti": "tempat tinggal"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "بَلَغَ",
+                "text_latin": "balagha",
+                "text_arti": "menyampaikan"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "بَلَوَ",
+                "text_latin": "balawa",
+                "text_arti": "menguji"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "بَنَى",
+                "text_latin": "bana",
+                "text_arti": "membina"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "بَاءَ",
+                "text_latin": "baa",
+                "text_arti": "kembali"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "بَانَ",
+                "text_latin": "bana",
+                "text_arti": "menjelaskan"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "يَبِيْنَ",
+                "text_latin": "yabina",
+                "text_arti": "menjelaskan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "تَرَكَ",
+                "text_latin": "taraka",
+                "text_arti": "meninggalkan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "تَلَا",
+                "text_latin": "tala",
+                "text_arti": "membaca"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "تَمَّ",
+                "text_latin": "tamma",
+                "text_arti": "sempurna"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "جَحَدَ",
+                "text_latin": "jahada",
+                "text_arti": "mengingkari, mendustakan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "جَدَلَ",
+                "text_latin": "jadala",
+                "text_arti": "membantah"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "جَرَمَ",
+                "text_latin": "jarama",
+                "text_arti": "memotong"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "جَرَى",
+                "text_latin": "jara",
+                "text_arti": "berlari, mengalir, berjalan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "جَزَى",
+                "text_latin": "jaza",
+                "text_arti": "membalas, mencukupi"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "جَنَبَ",
+                "text_latin": "janaba",
+                "text_arti": "menolak, menjauhkan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "حَبِطَ",
+                "text_latin": "habita",
+                "text_arti": "sia2"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "حَجَّ",
+                "text_latin": "hajja",
+                "text_arti": "berhaji"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "حَزِرَ",
+                "text_latin": "hazira",
+                "text_arti": "waspada"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "حَزِنَ",
+                "text_latin": "hazina",
+                "text_arti": "bersedih"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "حَسِبَ",
+                "text_latin": "hasiba",
+                "text_arti": "menghitung"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "حَسُنَ",
+                "text_latin": "hasuna",
+                "text_arti": "baik"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "حَشَرَ",
+                "text_latin": "hasara",
+                "text_arti": "mengumpulkan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "أَحْصَى",
+                "text_latin": "ahsa",
+                "text_arti": "menghitung"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "حَضَرَ",
+                "text_latin": "hadara",
+                "text_arti": "datang"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "حَفِظَ",
+                "text_latin": "hafiza",
+                "text_arti": "menghafal"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "حَلَفَ",
+                "text_latin": "halafa",
+                "text_arti": "bersumpah"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "حَمَلَ",
+                "text_latin": "hamala",
+                "text_arti": "membawa"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "أَحَاطَ",
+                "text_latin": "ahata",
+                "text_arti": "meliputi"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "حَقَ",
+                "text_latin": "haka",
+                "text_arti": "menimpa, turun"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "خَزِيَ",
+                "text_latin": "haziya",
+                "text_arti": "hina"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "خَسِرَ",
+                "text_latin": "hasira",
+                "text_arti": "merugi"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "خَشِيَى",
+                "text_latin": "hasiya",
+                "text_arti": "takut"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "خَفَّ",
+                "text_latin": "haffa",
+                "text_arti": "ringan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "خَفِيَى",
+                "text_latin": "hafiya",
+                "text_arti": "sembunyi"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "خَلَفَ",
+                "text_latin": "halafa",
+                "text_arti": "menggantikan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "خَلَا",
+                "text_latin": "hala",
+                "text_arti": "bertemu"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "خَافَ",
+                "text_latin": "hafa",
+                "text_arti": "takut"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "دَخَلَ",
+                "text_latin": "dahala",
+                "text_arti": "masuk"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "دَرَى",
+                "text_latin": "dara",
+                "text_arti": "mengetahui"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "ذَاقَ",
+                "text_latin": "zaka",
+                "text_arti": "merasakan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "رَجَعَ",
+                "text_latin": "rajia",
+                "text_arti": "kembali, pulang"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "رَجَ",
+                "text_latin": "raja",
+                "text_arti": "berharap"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "رَحِمَ",
+                "text_latin": "rahima",
+                "text_arti": "mengasihi"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "رَدَّ",
+                "text_latin": "radda",
+                "text_arti": "mengembalikan, menolak"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "رَفَعَ",
+                "text_latin": "rafaa",
+                "text_arti": "meninggikan, mengangkat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "رَكِبَ",
+                "text_latin": "rakiba",
+                "text_arti": "mengendarai"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "زَادَ",
+                "text_latin": "zada",
+                "text_arti": "bertambah"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "زَالَ",
+                "text_latin": "zala",
+                "text_arti": "memisahkan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "زَانَ",
+                "text_latin": "zana",
+                "text_arti": "menghiasi"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "سَخِرَ",
+                "text_latin": "sahira",
+                "text_arti": "mengejek"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "سَرَّ",
+                "text_latin": "sarra",
+                "text_arti": "merahasiakan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "سَعَى",
+                "text_latin": "saa",
+                "text_arti": "berjalan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "سَقَى",
+                "text_latin": "saka",
+                "text_arti": "memberi minum"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "سَكَنَ",
+                "text_latin": "sakana",
+                "text_arti": "mendiami"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "سَلَكَ",
+                "text_latin": "salaka",
+                "text_arti": "melalui"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "سَوِيَ",
+                "text_latin": "sawiya",
+                "text_arti": "sama"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "سَاءَ",
+                "text_latin": "saa",
+                "text_arti": "jelek"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "سَارَ",
+                "text_latin": "sara",
+                "text_arti": "berangkat"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "يَسِيرُ",
+                "text_latin": "yasiru",
+                "text_arti": "berangkat"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "شَرَى",
+                "text_latin": "sara",
+                "text_arti": "menjual"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "شَعَرَ",
+                "text_latin": "saara",
+                "text_arti": "menyadari"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "يَشْعُرُ",
+                "text_latin": "yasuru",
+                "text_arti": "menyadari"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "شَقَّ",
+                "text_latin": "sakka",
+                "text_arti": "membelah"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "شَهَدَ",
+                "text_latin": "sahada",
+                "text_arti": "bersaksi"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "صَدَّ",
+                "text_latin": "sadda",
+                "text_arti": "mencegah"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "صَدَقَ",
+                "text_latin": "sadaka",
+                "text_arti": "benar"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "صَرَفَ",
+                "text_latin": "sarafa",
+                "text_arti": "menolak"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "اِصْطَفَ",
+                "text_latin": "istafa",
+                "text_arti": "memilih"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "صَنَعَ",
+                "text_latin": "sanaa",
+                "text_arti": "membuat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "صَابَ",
+                "text_latin": "saba",
+                "text_arti": "menimpa, turun"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "ضَعُفَ",
+                "text_latin": "daufa",
+                "text_arti": "tidak kuat, lemah"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "ضَاعَ",
+                "text_latin": "daa",
+                "text_arti": "hilang, lenyap"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "طَعِمَ",
+                "text_latin": "taima",
+                "text_arti": "makan, merasai"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "طَغِيَى",
+                "text_latin": "taghiya",
+                "text_arti": "melampaui batas"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "طَلَعَ",
+                "text_latin": "talaa",
+                "text_arti": "terbit"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "طَهَرَ",
+                "text_latin": "tahara",
+                "text_arti": "bersih"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "ظَنَّ",
+                "text_latin": "zanna",
+                "text_arti": "menyangka, meyakini"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "عَجِلَ",
+                "text_latin": "ajila",
+                "text_arti": "bersegera"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "عَدَّ",
+                "text_latin": "adda",
+                "text_arti": "menghitung"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "عَدِلَ",
+                "text_latin": "adila",
+                "text_arti": "mengadili"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "عَدَا",
+                "text_latin": "ada",
+                "text_arti": "melampaui batas"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "عَذَبَ",
+                "text_latin": "azaba",
+                "text_arti": "menyiksa"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "عَرَضَ",
+                "text_latin": "arada",
+                "text_arti": "memalingkan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "عَرَفَ",
+                "text_latin": "arafa",
+                "text_arti": "mengetahui"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "عَسَى",
+                "text_latin": "asa",
+                "text_arti": "boleh jadi"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "عَفَا",
+                "text_latin": "afa",
+                "text_arti": "memaafkan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "عَلَنَ",
+                "text_latin": "alana",
+                "text_arti": "menampakkan"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "عَلَا",
+                "text_latin": "ala",
+                "text_arti": "tinggi"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "عَمَرَ",
+                "text_latin": "amara",
+                "text_arti": "berumur panjang"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "عَهِدَ",
+                "text_latin": "ahida",
+                "text_arti": "berjanji"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "عَادَ",
+                "text_latin": "ada",
+                "text_arti": "kembali"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "عَاذَ",
+                "text_latin": "aza",
+                "text_arti": "berlindung"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "غَرِقَ",
+                "text_latin": "garika",
+                "text_arti": "tenggelam"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "غَشِيَى",
+                "text_latin": "gasiya",
+                "text_arti": "menutupi"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "يَعْشَ",
+                "text_latin": "yaksa",
+                "text_arti": "menutupi"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "غَلَبَ",
+                "text_latin": "galaba",
+                "text_arti": "mengalahkan"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "يَعْلِبُ",
+                "text_latin": "yaklibu",
+                "text_arti": "mengalahkan"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "غَنِيَ",
+                "text_latin": "ganiya",
+                "text_arti": "kaya"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "غَوَى",
+                "text_latin": "gawa",
+                "text_arti": "sesat atau gagal"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "فَتَنَ",
+                "text_latin": "fatana",
+                "text_arti": "memfitnah"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "فَتِيَ",
+                "text_latin": "fatiya",
+                "text_arti": "berfatwa"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "فَجَرَ",
+                "text_latin": "fajara",
+                "text_arti": "memancarkan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "فَرِحَ",
+                "text_latin": "fariha",
+                "text_arti": "bergembira"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "فَرَقَ",
+                "text_latin": "faraka",
+                "text_arti": "membelah"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "فَرَى",
+                "text_latin": "fara",
+                "text_arti": "mengada ada"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "فَسَدَ",
+                "text_latin": "fasada",
+                "text_arti": "merusak"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "فَسَقَ",
+                "text_latin": "fasaka",
+                "text_arti": "fasik"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "فَصَلَ",
+                "text_latin": "fasala",
+                "text_arti": "menjelaskan"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "فَضَلَ",
+                "text_latin": "fadala",
+                "text_arti": "karunia"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "فَطَرَ",
+                "text_latin": "fatara",
+                "text_arti": "menciptakan"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "فَعَلَ",
+                "text_latin": "faala",
+                "text_arti": "mengerjakan"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "فَقِهَ",
+                "text_latin": "fakiha",
+                "text_arti": "memahami"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "فَكَرَ",
+                "text_latin": "fakara",
+                "text_arti": "memikirkan"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "فَلَحَ",
+                "text_latin": "falaha",
+                "text_arti": "beruntung"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "قَدَرَ",
+                "text_latin": "kadara",
+                "text_arti": "kuasa"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "قَدَمَ",
+                "text_latin": "kadama",
+                "text_arti": "datang"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "قَرَأَ",
+                "text_latin": "karaa",
+                "text_arti": "membaca"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "قَرُبَ",
+                "text_latin": "karaba",
+                "text_arti": "dekat"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "قَرَّ",
+                "text_latin": "karra",
+                "text_arti": "sejuk"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "قَسَمَ",
+                "text_latin": "kasama",
+                "text_arti": "bersumpah"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "قَصَّ",
+                "text_latin": "kassa",
+                "text_arti": "menceritakan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "قَضَى",
+                "text_latin": "kada",
+                "text_arti": "memutuskan"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "قَطَعَ",
+                "text_latin": "kataa",
+                "text_arti": "memotong"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "قَعَدَ",
+                "text_latin": "kaada",
+                "text_arti": "duduk"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "قَلَبَ",
+                "text_latin": "kalaba",
+                "text_arti": "membalikkan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "كَتَبَ",
+                "text_latin": "kataba",
+                "text_arti": "menulis"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "كَتَمَ",
+                "text_latin": "katama",
+                "text_arti": "menyembunyikan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "كَرِهَ",
+                "text_latin": "kariha",
+                "text_arti": "membenci"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "يَكْرَهُ",
+                "text_latin": "yakrahu",
+                "text_arti": "membenci"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "كَسَبَ",
+                "text_latin": "kasaba",
+                "text_arti": "berusaha"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "كَشَفَ",
+                "text_latin": "kasafa",
+                "text_arti": "membukakan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "كَفَى",
+                "text_latin": "kafa",
+                "text_arti": "mencukupi"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "كَلَّمَ",
+                "text_latin": "kallama",
+                "text_arti": "berbicara"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "كَادَ",
+                "text_latin": "kada",
+                "text_arti": "hampir"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "لَبَسَ",
+                "text_latin": "labasa",
+                "text_arti": "mencampuradukkan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "يَلبَسُ",
+                "text_latin": "yabasu",
+                "text_arti": "mencampuradukkan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "مَدَّ",
+                "text_latin": "madda",
+                "text_arti": "membentangkan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "مَرَّ",
+                "text_latin": "marra",
+                "text_arti": "berjalan"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "مَرَى",
+                "text_latin": "mara",
+                "text_arti": "mengingkari"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "مَسَّ",
+                "text_latin": "massa",
+                "text_arti": "menyentuh"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "مَسَكَ",
+                "text_latin": "masaka",
+                "text_arti": "memegang"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "مَشَى",
+                "text_latin": "masa",
+                "text_arti": "berjalan"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "مَكَرَ",
+                "text_latin": "makara",
+                "text_arti": "menipu"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "مَكُنَ",
+                "text_latin": "makuna",
+                "text_arti": "mempunyai pangkat"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "مَنَعَ",
+                "text_latin": "manaa",
+                "text_arti": "mencegah"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "مَنَّ",
+                "text_latin": "manna",
+                "text_arti": "karunia"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "مَنَى",
+                "text_latin": "mana",
+                "text_arti": "mentakdirkan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "نَبَتَ",
+                "text_latin": "nabata",
+                "text_arti": "tumbuh"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "نَبَذَ",
+                "text_latin": "nabaza",
+                "text_arti": "membuang"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "نَجَا",
+                "text_latin": "naja",
+                "text_arti": "selamat"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "نَدَى",
+                "text_latin": "nada",
+                "text_arti": "memanggil, menyeru"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "نَزَعَ",
+                "text_latin": "nazaa",
+                "text_arti": "mencabut"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "نَسِيَ",
+                "text_latin": "nasiya",
+                "text_arti": "lupa"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "نَشَأَ",
+                "text_latin": "nasaa",
+                "text_arti": "tumbuh"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "نَصَرَ",
+                "text_latin": "nasara",
+                "text_arti": "menolong"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "نَطَقَ",
+                "text_latin": "nataka",
+                "text_arti": "berkata"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "نَعَمَ",
+                "text_latin": "naama",
+                "text_arti": "nikmat"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "نَفَخَ",
+                "text_latin": "nafaha",
+                "text_arti": "meniup"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "نَفَعَ",
+                "text_latin": "nafaa",
+                "text_arti": "berguna"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "نَقَمَ",
+                "text_latin": "nakama",
+                "text_arti": "membalas"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "نَهَى",
+                "text_latin": "naha",
+                "text_arti": "melarang"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "نَابَ",
+                "text_latin": "naba",
+                "text_arti": "menggantikan"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "نَالَ",
+                "text_latin": "nala",
+                "text_arti": "mendapatkan"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "يَنَالُ",
+                "text_latin": "yanalu",
+                "text_arti": "mendapatkan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "وَحَى",
+                "text_latin": "waha",
+                "text_arti": "mengajarkan"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "وَدَّ",
+                "text_latin": "wadda",
+                "text_arti": "menyukai"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "وَذَرَ",
+                "text_latin": "wazara",
+                "text_arti": "membiarkan"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "وَصَفَ",
+                "text_latin": "wasafa",
+                "text_arti": "mensifati"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "وَصَلَ",
+                "text_latin": "wasala",
+                "text_arti": "sampai"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "وَصَى",
+                "text_latin": "wasa",
+                "text_arti": "telah berwasiat"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "وَضَعَ",
+                "text_latin": "wadaa",
+                "text_arti": "merendahkan"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "وَعَدَ",
+                "text_latin": "waada",
+                "text_arti": "menjanjikan"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "وَعَظَ",
+                "text_latin": "waaza",
+                "text_arti": "menasehati"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "وَفَى",
+                "text_latin": "wafa",
+                "text_arti": "menyempurnakan"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "وَقَعَ",
+                "text_latin": "wafaa",
+                "text_arti": "jatuh gugur"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "وَلَجَ",
+                "text_latin": "walaja",
+                "text_arti": "masuk kedalam"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "وَهَبَ",
+                "text_latin": "wahaba",
+                "text_arti": "memberikan"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "هَذَأَ",
+                "text_latin": "hazaa",
+                "text_arti": "mengejek, mengolok2"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "هَلَكَ",
+                "text_latin": "halaka",
+                "text_arti": "binasa mati"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "يَسِرَ",
+                "text_latin": "yasira",
+                "text_arti": "mudah gampang"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "اَمَنَ",
+                "text_latin": "amana",
+                "text_arti": "beriman"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "بَخِلَ",
+                "text_latin": "bahila",
+                "text_arti": "bakhil"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "بَرَكَ",
+                "text_latin": "baraka",
+                "text_arti": "memberkahi"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "تَابَ",
+                "text_latin": "taba",
+                "text_arti": "bertaubat"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "جَمَعَ",
+                "text_latin": "jamaa",
+                "text_arti": "jamaah"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "جَهَدَ",
+                "text_latin": "jahada",
+                "text_arti": "jihad"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "جَابَ",
+                "text_latin": "jaba",
+                "text_arti": "menjawab"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "حَرُمَ",
+                "text_latin": "haruma",
+                "text_arti": "haram"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "حَقٌّ",
+                "text_latin": "hakkun",
+                "text_arti": "hak, benar"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "حَكَمَ",
+                "text_latin": "hakama",
+                "text_arti": "menghukum"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "حَلًّ",
+                "text_latin": "hallan",
+                "text_arti": "menghalalkan"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "حَيِىَ",
+                "text_latin": "hayiya",
+                "text_arti": "hidup"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "دَعَا",
+                "text_latin": "daa",
+                "text_arti": "berdoa"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "رَزَقَ",
+                "text_latin": "razaka",
+                "text_arti": "rezeki"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "رَضِيَى",
+                "text_latin": "radiya",
+                "text_arti": "ridho"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "ذَكَى",
+                "text_latin": "zaka",
+                "text_arti": "berzakat"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "سَبَحَ",
+                "text_latin": "sabaha",
+                "text_arti": "bertasbih"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "سَجَدَ",
+                "text_latin": "sajada",
+                "text_arti": "sujud"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "سَلِمَ",
+                "text_latin": "salima",
+                "text_arti": "selamat"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "شَرِكَ",
+                "text_latin": "sarika",
+                "text_arti": "berserikat"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "شَكَرَ",
+                "text_latin": "sakara",
+                "text_arti": "bersyukur"
+            },
+            {
+                "text_urut": "02",
+                "text_arabic": "صَلَحَ",
+                "text_latin": "salaha",
+                "text_arti": "sholih"
+            },
+            {
+                "text_urut": "03",
+                "text_arabic": "صَلَا",
+                "text_latin": "sala",
+                "text_arti": "sholat"
+            },
+            {
+                "text_urut": "04",
+                "text_arabic": "ضَرَّ",
+                "text_latin": "darra",
+                "text_arti": "mudhorot"
+            },
+            {
+                "text_urut": "05",
+                "text_arabic": "طَلَقَ",
+                "text_latin": "talaka",
+                "text_arti": "talak"
+            },
+            {
+                "text_urut": "06",
+                "text_arabic": "طَل عَ",
+                "text_latin": "taa",
+                "text_arti": "taat"
+            },
+            {
+                "text_urut": "07",
+                "text_arabic": "طَل فَ",
+                "text_latin": "tafa",
+                "text_arti": "thowaf"
+            },
+            {
+                "text_urut": "08",
+                "text_arabic": "ظَلَمَ",
+                "text_latin": "dzolama",
+                "text_arti": "dzolim"
+            },
+            {
+                "text_urut": "09",
+                "text_arabic": "ظَحَرَ",
+                "text_latin": "zahara",
+                "text_arti": "dzohir"
+            },
+            {
+                "text_urut": "10",
+                "text_arabic": "عَبَدَ",
+                "text_latin": "abada",
+                "text_arti": "beribadah"
+            },
+            {
+                "text_urut": "11",
+                "text_arabic": "عَجِبَ",
+                "text_latin": "ajiba",
+                "text_arti": "takjub"
+            },
+            {
+                "text_urut": "12",
+                "text_arabic": "عَصَى",
+                "text_latin": "asa",
+                "text_arti": "maksiat"
+            },
+            {
+                "text_urut": "13",
+                "text_arabic": "عَقَلَ",
+                "text_latin": "akala",
+                "text_arti": "berakal"
+            },
+            {
+                "text_urut": "14",
+                "text_arabic": "عَمِلَ",
+                "text_latin": "amila",
+                "text_arti": "mengamalkan"
+            },
+            {
+                "text_urut": "15",
+                "text_arabic": "كَفَرَ",
+                "text_latin": "kafara",
+                "text_arti": "kafir"
+            },
+            {
+                "text_urut": "16",
+                "text_arabic": "لَعَنَ",
+                "text_latin": "laana",
+                "text_arti": "melaknat"
+            },
+            {
+                "text_urut": "17",
+                "text_arabic": "مَلَكَ",
+                "text_latin": "malaka",
+                "text_arti": "memiliki, mempunyai"
+            },
+            {
+                "text_urut": "18",
+                "text_arabic": "مَاتَ",
+                "text_latin": "mata",
+                "text_arti": "mati"
+            },
+            {
+                "text_urut": "19",
+                "text_arabic": "نَذَرَ",
+                "text_latin": "nazara",
+                "text_arti": "bernazar"
+            },
+            {
+                "text_urut": "20",
+                "text_arabic": "نَفَقَ",
+                "text_latin": "nafaka",
+                "text_arti": "nafkah"
+            },
+            {
+                "text_urut": "21",
+                "text_arabic": "نَكَحَ",
+                "text_latin": "nakaha",
+                "text_arti": "nikah"
+            },
+            {
+                "text_urut": "22",
+                "text_arabic": "هَدَى",
+                "text_latin": "hada",
+                "text_arti": "hidayah"
+            },
+            {
+                "text_urut": "23",
+                "text_arabic": "وَرِثَ",
+                "text_latin": "warisa",
+                "text_arti": "mewarisi"
+            },
+            {
+                "text_urut": "24",
+                "text_arabic": "وَكَلَ",
+                "text_latin": "wakala",
+                "text_arti": "mewakilkan"
+            },
+            {
+                "text_urut": "25",
+                "text_arabic": "يَقِنَ",
+                "text_latin": "yakina",
+                "text_arti": "meyakini"
+            }
+        ]
+    }
+]

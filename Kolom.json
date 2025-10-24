@@ -1,0 +1,1074 @@
+[
+    {
+        "kolom": "1",
+        "sdr_arab": "بٍجَرٍ",
+        "sdr_kolom": "Bijarin(1)",
+        "items": [
+            {
+                "text_arabic": "بِ",
+                "text_latin": "bi…",
+                "arti": "dengan"
+            },
+            {
+                "text_arabic": "كَ",
+                "text_latin": "ka…",
+                "arti": "seperti"
+            },
+            {
+                "text_arabic": "لِ",
+                "text_latin": "li…",
+                "arti": "untuk"
+            },
+            {
+                "text_arabic": "لَ",
+                "text_latin": "la…",
+                "arti": "untuk"
+            },
+            {
+                "text_arabic": "اِلَى",
+                "text_latin": "ila",
+                "arti": "kepada"
+            },
+            {
+                "text_arabic": "اِلَىيْ",
+                "text_latin": "ilay…",
+                "arti": "kepada"
+            },
+            {
+                "text_arabic": "ءَلَ",
+                "text_latin": "ala",
+                "arti": "di atas"
+            },
+            {
+                "text_arabic": "ءَلَييْ",
+                "text_latin": "alay…",
+                "arti": "di atas"
+            },
+            {
+                "text_arabic": "مِنْ",
+                "text_latin": "min",
+                "arti": "dari"
+            },
+            {
+                "text_arabic": "فِ",
+                "text_latin": "fi",
+                "arti": "di dalam"
+            },
+            {
+                "text_arabic": "فِييْ",
+                "text_latin": "fiy…",
+                "arti": "di dalam"
+            },
+            {
+                "text_arabic": "عَنْ",
+                "text_latin": "an…",
+                "arti": "dari"
+            },
+            {
+                "text_arabic": "حَتَّي",
+                "text_latin": "hatta",
+                "arti": "sehingga"
+            },
+            {
+                "text_arabic": "بِ",
+                "text_latin": "bi…",
+                "arti": "demi"
+            },
+            {
+                "text_arabic": "تَ",
+                "text_latin": "ta…",
+                "arti": "demi"
+            },
+            {
+                "text_arabic": "وَ",
+                "text_latin": "wa…",
+                "arti": "demi"
+            }
+        ]
+    },
+    {
+        "kolom": "2",
+        "sdr_arab": "كَانَ رَفَعُ نَصَبَ",
+        "sdr_kolom": "Kana rofau nasoba(2)",
+        "items": [
+            {
+                "text_arabic": "كَانَ",
+                "text_latin": "kana",
+                "arti": "adalah"
+            },
+            {
+                "text_arabic": "لَيْسَ",
+                "text_latin": "laisa",
+                "arti": "tiada bukan"
+            }
+        ]
+    },
+    {
+        "kolom": "3",
+        "sdr_arab": "اِنَّ نَصَبَ رَفَعُ",
+        "sdr_kolom": "Inna Nasoba Rofau(3)",
+        "items": [
+            {
+                "text_arabic": "اِنَّ",
+                "text_latin": "inna",
+                "arti": "sesungguhnya"
+            },
+            {
+                "text_arabic": "اَنَّ",
+                "text_latin": "anna",
+                "arti": "sesungguhnya"
+            },
+            {
+                "text_arabic": "كَأَنَّ",
+                "text_latin": "kaanna",
+                "arti": "seakan akan"
+            },
+            {
+                "text_arabic": "لَكِنَّ",
+                "text_latin": "lakinna",
+                "arti": "akan tetapi"
+            },
+            {
+                "text_arabic": "لَعّلَّ",
+                "text_latin": "laalla",
+                "arti": "semoga"
+            },
+            {
+                "text_arabic": "لَعَلَّ",
+                "text_latin": "laalla",
+                "arti": "supaya"
+            },
+            {
+                "text_arabic": "لَيْتَ",
+                "text_latin": "laita",
+                "arti": "andaikan"
+            }
+        ]
+    },
+    {
+        "kolom": "4",
+        "sdr_arab": "لَا نَصَبَ لِلنَّكِرَة",
+        "sdr_kolom": "La Nasoba linnakiroh(4)",
+        "items": [
+            {
+                "text_arabic": "لَا",
+                "text_latin": "laa",
+                "arti": "tidak ada"
+            }
+        ]
+    },
+    {
+        "kolom": "5",
+        "sdr_arab": "إِلَّا نَصَبَ لِلْمُسْتَشْنَاء",
+        "sdr_kolom": "Illa nasoba lilmustashna(5)",
+        "items": [
+            {
+                "text_arabic": "إِلَّا",
+                "text_latin": "illa",
+                "arti": "kecuali"
+            }
+        ]
+    },
+    {
+        "kolom": "6",
+        "sdr_arab": "يَا نَصَبَ لِلْمُضَاف",
+        "sdr_kolom": "Ya nasoba lilmudhof(6)",
+        "items": [
+            {
+                "text_arabic": "يَا",
+                "text_latin": "yaa",
+                "arti": "wahai"
+            }
+        ]
+    },
+    {
+        "kolom": "7",
+        "sdr_arab": "يَانِدَاءٌ",
+        "sdr_kolom": "Ya nida(7)",
+        "items": [
+            {
+                "text_arabic": "يَا",
+                "text_latin": "yaa",
+                "arti": "wahai"
+            },
+            {
+                "text_arabic": "يَا أَيُّحَا",
+                "text_latin": "ya ayyuha",
+                "arti": "wahai"
+            },
+            {
+                "text_arabic": "يَا أَيَّتُهَا",
+                "text_latin": "ya ayyatuha",
+                "arti": "wahai"
+            }
+        ]
+    },
+    {
+        "kolom": "8",
+        "sdr_arab": "اَ نْ يَنْصِبَ",
+        "sdr_kolom": "Ayyansiba(8)",
+        "items": [
+            {
+                "text_arabic": "اَنْ",
+                "text_latin": "an",
+                "arti": "hendaknya"
+            },
+            {
+                "text_arabic": "لَنْ",
+                "text_latin": "lan",
+                "arti": "tidak akan"
+            },
+            {
+                "text_arabic": "اِزَنْ",
+                "text_latin": "izan",
+                "arti": "kalau demikian"
+            },
+            {
+                "text_arabic": "كَى",
+                "text_latin": "ka",
+                "arti": "supaya"
+            },
+            {
+                "text_arabic": "لِ  ...",
+                "text_latin": "li",
+                "arti": "supaya"
+            },
+            {
+                "text_arabic": "حَتَّي",
+                "text_latin": "hatta",
+                "arti": "hingga"
+            }
+        ]
+    },
+    {
+        "kolom": "9",
+        "sdr_arab": "لَا تَجْذُمْ",
+        "sdr_kolom": "La Tajzum(9)",
+        "items": [
+            {
+                "text_arabic": "لاَ",
+                "text_latin": "laa",
+                "arti": "janganlah"
+            }
+        ]
+    },
+    {
+        "kolom": "10",
+        "sdr_arab": "لَمْ يَجْزُمْ",
+        "sdr_kolom": "Lam yajzum(10)",
+        "items": [
+            {
+                "text_arabic": "لَمْ",
+                "text_latin": "lam",
+                "arti": "tidak"
+            },
+            {
+                "text_arabic": "لَمَّا",
+                "text_latin": "lamma",
+                "arti": "tidak"
+            },
+            {
+                "text_arabic": "لِ",
+                "text_latin": "li…",
+                "arti": "hendaklah"
+            },
+            {
+                "text_arabic": "وَلْ",
+                "text_latin": "wal…",
+                "arti": "hendaklah"
+            },
+            {
+                "text_arabic": "فَلْ",
+                "text_latin": "fal…",
+                "arti": "hendaklah"
+            }
+        ]
+    },
+    {
+        "kolom": "11",
+        "sdr_arab": "اَلثَّرْطُ",
+        "sdr_kolom": "Ashshartu(11)",
+        "items": [
+            {
+                "text_arabic": "إِنْ",
+                "text_latin": "in",
+                "arti": "jika"
+            },
+            {
+                "text_arabic": "مَنْ",
+                "text_latin": "man",
+                "arti": "siapa"
+            },
+            {
+                "text_arabic": "مَا",
+                "text_latin": "ma",
+                "arti": "apa"
+            },
+            {
+                "text_arabic": "أَيْنَمَا",
+                "text_latin": "ainama",
+                "arti": "kemanapun"
+            },
+            {
+                "text_arabic": "حَيْشُمَا",
+                "text_latin": "haisuma",
+                "arti": "dimanapun"
+            },
+            {
+                "text_arabic": "مَهْمَا",
+                "text_latin": "mahma",
+                "arti": "bagaimanapun juga"
+            }
+        ]
+    },
+    {
+        "kolom": "12",
+        "sdr_arab": "اَلْاءِ سْتِثْنَءْ",
+        "sdr_kolom": "Al istishna(12)",
+        "items": [
+            {
+                "text_arabic": "إِلاَّ",
+                "text_latin": "illa",
+                "arti": "kecuali"
+            },
+            {
+                "text_arabic": "اَلاَّ",
+                "text_latin": "alla",
+                "arti": "hendaklah"
+            },
+            {
+                "text_arabic": "اَلاَّ",
+                "text_latin": "alla",
+                "arti": "janganlah"
+            },
+            {
+                "text_arabic": "كَلَّا",
+                "text_latin": "kalla",
+                "arti": "sekali kali janganlah"
+            }
+        ]
+    },
+    {
+        "kolom": "13",
+        "sdr_arab": "اَلْعَطْفُ",
+        "sdr_kolom": "Al atfu(13)",
+        "items": [
+            {
+                "text_arabic": "وَ",
+                "text_latin": "wa",
+                "arti": "dan"
+            },
+            {
+                "text_arabic": "اَوْ",
+                "text_latin": "aw",
+                "arti": "atau"
+            },
+            {
+                "text_arabic": "فَ",
+                "text_latin": "fa…",
+                "arti": "maka"
+            },
+            {
+                "text_arabic": "اَمْ",
+                "text_latin": "am",
+                "arti": "atau"
+            },
+            {
+                "text_arabic": "اَمَّا",
+                "text_latin": "amma",
+                "arti": "adapun"
+            },
+            {
+                "text_arabic": "ثُمَّ",
+                "text_latin": "summa",
+                "arti": "kemudian"
+            },
+            {
+                "text_arabic": "بَلْ",
+                "text_latin": "bal",
+                "arti": "bahkan"
+            },
+            {
+                "text_arabic": "حَتَّي",
+                "text_latin": "hatta",
+                "arti": "sehingga"
+            },
+            {
+                "text_arabic": "لَكِنْ",
+                "text_latin": "lakin",
+                "arti": "akan tetapi"
+            }
+        ]
+    },
+    {
+        "kolom": "14",
+        "sdr_arab": "اَلثَّرْطُ",
+        "sdr_kolom": "Ashshartu(14)",
+        "items": [
+            {
+                "text_arabic": "إِذْ",
+                "text_latin": "iz",
+                "arti": "jika"
+            },
+            {
+                "text_arabic": "إِذَا",
+                "text_latin": "iza",
+                "arti": "jika"
+            },
+            {
+                "text_arabic": "إِزَنْ",
+                "text_latin": "izan",
+                "arti": "jika"
+            },
+            {
+                "text_arabic": "إِمَّا",
+                "text_latin": "imma",
+                "arti": "jika tidak"
+            },
+            {
+                "text_arabic": "أَمَّا",
+                "text_latin": "amma",
+                "arti": "adapun"
+            },
+            {
+                "text_arabic": "لَمَّا",
+                "text_latin": "lamma",
+                "arti": "ketika"
+            },
+            {
+                "text_arabic": "لَوْ",
+                "text_latin": "lau",
+                "arti": "jikalau"
+            },
+            {
+                "text_arabic": "لَوْلَا",
+                "text_latin": "lawla",
+                "arti": "mengapa tidak"
+            },
+            {
+                "text_arabic": "لَوْمَا",
+                "text_latin": "lauma",
+                "arti": "mengapa tidak"
+            }
+        ]
+    },
+    {
+        "kolom": "15",
+        "sdr_arab": "اَلْاءِ سْتِفْهَامْ",
+        "sdr_kolom": "Al istifham(15)",
+        "items": [
+            {
+                "text_arabic": "أ",
+                "text_latin": "a",
+                "arti": "apakah"
+            },
+            {
+                "text_arabic": "أَلَا",
+                "text_latin": "ala",
+                "arti": "ingatlah"
+            },
+            {
+                "text_arabic": "أَيُّ",
+                "text_latin": "ayyu",
+                "arti": "siapakah"
+            },
+            {
+                "text_arabic": "أَيْنَ",
+                "text_latin": "aina",
+                "arti": "dimana"
+            },
+            {
+                "text_arabic": "مَا",
+                "text_latin": "ma",
+                "arti": "apakah"
+            },
+            {
+                "text_arabic": "مَنْ",
+                "text_latin": "man",
+                "arti": "siapakah"
+            },
+            {
+                "text_arabic": "مَتَى",
+                "text_latin": "mata",
+                "arti": "kapan"
+            },
+            {
+                "text_arabic": "كَمْ",
+                "text_latin": "kam",
+                "arti": "berapa"
+            },
+            {
+                "text_arabic": "كَيْفَ",
+                "text_latin": "kaifa",
+                "arti": "bagaimana"
+            },
+            {
+                "text_arabic": "هَلْ",
+                "text_latin": "hal",
+                "arti": "apakah"
+            },
+            {
+                "text_arabic": "مَازَا",
+                "text_latin": "maza",
+                "arti": "apakah"
+            },
+            {
+                "text_arabic": "لِمَ",
+                "text_latin": "lima",
+                "arti": "kenapa"
+            },
+            {
+                "text_arabic": "لِمَازَا",
+                "text_latin": "limaza",
+                "arti": "kenapa"
+            }
+        ]
+    },
+    {
+        "kolom": "16",
+        "sdr_arab": "اَلتَّوْكِيْدُ",
+        "sdr_kolom": "At taukid(16)",
+        "items": [
+            {
+                "text_arabic": "لَ",
+                "text_latin": "la",
+                "arti": "sungguh"
+            },
+            {
+                "text_arabic": "قَدْ",
+                "text_latin": "qad",
+                "arti": "sungguh"
+            },
+            {
+                "text_arabic": "لَقَدْ",
+                "text_latin": "laqad",
+                "arti": "sungguh"
+            }
+        ]
+    },
+    {
+        "kolom": "17",
+        "sdr_arab": "أَلْاءِسْتِقْبَالُ",
+        "sdr_kolom": "Al istiqbal(17)",
+        "items": [
+            {
+                "text_arabic": "سَ",
+                "text_latin": "sa",
+                "arti": "akan"
+            },
+            {
+                "text_arabic": "سَوْفَ",
+                "text_latin": "saufa",
+                "arti": "akan"
+            }
+        ]
+    },
+    {
+        "kolom": "18",
+        "sdr_arab": "أَلنَّافِ",
+        "sdr_kolom": "An nafi(18)",
+        "items": [
+            {
+                "text_arabic": "مَا",
+                "text_latin": "ma",
+                "arti": "bukan/tidak"
+            },
+            {
+                "text_arabic": "لَا",
+                "text_latin": "laa",
+                "arti": "bukan"
+            }
+        ]
+    },
+    {
+        "kolom": "19",
+        "sdr_arab": "no nama",
+        "sdr_kolom": "noname(19)",
+        "items": [
+            {
+                "text_arabic": "نِعْمَ",
+                "text_latin": "nikma",
+                "arti": "sebaik baik"
+            },
+            {
+                "text_arabic": "بِئْسَ",
+                "text_latin": "biksa",
+                "arti": "sejelek jelek"
+            }
+        ]
+    },
+    {
+        "kolom": "20",
+        "sdr_arab": "ظَرَفْ",
+        "sdr_kolom": "zhorof(20)",
+        "items": [
+            {
+                "text_arabic": "قَبْلَ",
+                "text_latin": "qabla",
+                "arti": "sebelum"
+            },
+            {
+                "text_arabic": "بَعْدَ",
+                "text_latin": "bakda",
+                "arti": "sesudah"
+            },
+            {
+                "text_arabic": "غَيْرَ",
+                "text_latin": "gaira",
+                "arti": "Selain"
+            },
+            {
+                "text_arabic": "دُوْنَ",
+                "text_latin": "duna",
+                "arti": "bukan"
+            },
+            {
+                "text_arabic": "أَمَامَ",
+                "text_latin": "amama",
+                "arti": "di depan"
+            },
+            {
+                "text_arabic": "وَرَاء",
+                "text_latin": "waraa",
+                "arti": "di belakang"
+            },
+            {
+                "text_arabic": "خَلْفَ",
+                "text_latin": "halfa",
+                "arti": "di belakang"
+            },
+            {
+                "text_arabic": "فَوْقَ",
+                "text_latin": "fawqa",
+                "arti": "di atas"
+            },
+            {
+                "text_arabic": "تَحْتَ",
+                "text_latin": "tahta",
+                "arti": "di bawah"
+            },
+            {
+                "text_arabic": "جَانِبَ",
+                "text_latin": "janiba",
+                "arti": "di samping"
+            },
+            {
+                "text_arabic": "حَوْلَ",
+                "text_latin": "haula",
+                "arti": "di sekitar"
+            },
+            {
+                "text_arabic": "كُلَّ",
+                "text_latin": "kulla",
+                "arti": "setiap"
+            },
+            {
+                "text_arabic": "مَعَ",
+                "text_latin": "maa",
+                "arti": "beserta"
+            },
+            {
+                "text_arabic": "عِنْدَ",
+                "text_latin": "inda",
+                "arti": "di sisi"
+            },
+            {
+                "text_arabic": "بَيْنَ",
+                "text_latin": "baina",
+                "arti": "diantara"
+            }
+        ]
+    },
+    {
+        "kolom": "21",
+        "sdr_arab": "مَوْصُوْل",
+        "sdr_kolom": "Mausul(21)",
+        "items": [
+            {
+                "text_arabic": "الَّزِى",
+                "text_latin": "allazi",
+                "arti": "orang yang"
+            },
+            {
+                "text_arabic": "الَّزَانِ",
+                "text_latin": "allazani",
+                "arti": "orang yang"
+            },
+            {
+                "text_arabic": "الَّزِيْنَ",
+                "text_latin": "allazina",
+                "arti": "orang yang"
+            },
+            {
+                "text_arabic": "الَّتِ",
+                "text_latin": "allati",
+                "arti": "orang yang"
+            },
+            {
+                "text_arabic": "الَّتَانِ",
+                "text_latin": "allatani",
+                "arti": "orang yang"
+            },
+            {
+                "text_arabic": "اَلَّاتِى",
+                "text_latin": "allatiy",
+                "arti": "orang yang"
+            },
+            {
+                "text_arabic": "مَا",
+                "text_latin": "ma",
+                "arti": "apa yang"
+            },
+            {
+                "text_arabic": "مَنْ",
+                "text_latin": "man",
+                "arti": "siapa yang"
+            }
+        ]
+    },
+    {
+        "kolom": "22",
+        "sdr_arab": "اِثَسارَهْ",
+        "sdr_kolom": "Isharoh(22)",
+        "items": [
+            {
+                "text_arabic": "ذّلِكَ",
+                "text_latin": "zalika",
+                "arti": "itu"
+            },
+            {
+                "text_arabic": "ذّلِكُمَا",
+                "text_latin": "zalikuma",
+                "arti": "itu"
+            },
+            {
+                "text_arabic": "ذَلِكُمْ",
+                "text_latin": "zalikum",
+                "arti": "itu"
+            },
+            {
+                "text_arabic": "تِلْكَ",
+                "text_latin": "tilka",
+                "arti": "itu"
+            },
+            {
+                "text_arabic": "تِلْكُمَا",
+                "text_latin": "tilkuma",
+                "arti": "itu"
+            },
+            {
+                "text_arabic": "تِلْكُمْ",
+                "text_latin": "tilkum",
+                "arti": "itu"
+            },
+            {
+                "text_arabic": "اُولَئِكَ",
+                "text_latin": "ulaika",
+                "arti": "mereka itu"
+            }
+        ]
+    },
+    {
+        "kolom": "23",
+        "sdr_arab": "اِثَسارَهْ",
+        "sdr_kolom": "Isharoh(23)",
+        "items": [
+            {
+                "text_arabic": "هَاذَا",
+                "text_latin": "haza",
+                "arti": "ini satu"
+            },
+            {
+                "text_arabic": "هَذَانِ",
+                "text_latin": "hazani",
+                "arti": "ini dua"
+            },
+            {
+                "text_arabic": "هَئُ لَاءِ",
+                "text_latin": "haulai",
+                "arti": "mereka ini"
+            },
+            {
+                "text_arabic": "هَاذِهِ",
+                "text_latin": "hazihi",
+                "arti": "ini satu"
+            },
+            {
+                "text_arabic": "هَتَانِ",
+                "text_latin": "hatani",
+                "arti": "ini dua"
+            },
+            {
+                "text_arabic": "هَئُلَاءِ",
+                "text_latin": "haula'i",
+                "arti": "mereka ini"
+            }
+        ]
+    },
+    {
+        "kolom": "24",
+        "sdr_arab": "ضَمِيْرٌ",
+        "sdr_kolom": "Dhomir(24)",
+        "items": [
+            {
+                "text_arabic": "هُوَ",
+                "text_latin": "huwa",
+                "arti": "lelaki satu"
+            },
+            {
+                "text_arabic": "هُمَا",
+                "text_latin": "huma",
+                "arti": "lelaki dua"
+            },
+            {
+                "text_arabic": "هُمْ",
+                "text_latin": "hum",
+                "arti": "mereka lelaki"
+            },
+            {
+                "text_arabic": "هِيَا",
+                "text_latin": "hiya",
+                "arti": "wanita satu"
+            },
+            {
+                "text_arabic": "هُمَا",
+                "text_latin": "huma",
+                "arti": "wanita dua"
+            },
+            {
+                "text_arabic": "هُنَّ",
+                "text_latin": "hunna",
+                "arti": "mereka wanita"
+            },
+            {
+                "text_arabic": "اَنْتَ",
+                "text_latin": "anta",
+                "arti": "kamu lelaki satu"
+            },
+            {
+                "text_arabic": "اَنْتُمَا",
+                "text_latin": "antuma",
+                "arti": "kamu lelaki dua"
+            },
+            {
+                "text_arabic": "اَنْتُمْ",
+                "text_latin": "antum",
+                "arti": "kalian lelaki"
+            },
+            {
+                "text_arabic": "اَنْتِ",
+                "text_latin": "anti",
+                "arti": "kamu wanita satu"
+            },
+            {
+                "text_arabic": "اَنْتُمَا",
+                "text_latin": "antuma",
+                "arti": "kamu wanita dua"
+            },
+            {
+                "text_arabic": "اَنْتُنَّ",
+                "text_latin": "antunna",
+                "arti": "kalian wanita"
+            },
+            {
+                "text_arabic": "اَنَا",
+                "text_latin": "ana",
+                "arti": "saya"
+            },
+            {
+                "text_arabic": "نَحْنُ",
+                "text_latin": "nahnu",
+                "arti": "kami"
+            }
+        ]
+    },
+    {
+        "kolom": "25",
+        "sdr_arab": "ضَمِيْرٌ",
+        "sdr_kolom": "Dhomir(25)",
+        "items": [
+            {
+                "text_arabic": "هُى",
+                "text_latin": "…hu",
+                "arti": "Dia llk satu"
+            },
+            {
+                "text_arabic": "هِى",
+                "text_latin": "…hi",
+                "arti": "Dia llk satu"
+            },
+            {
+                "text_arabic": "هُمَا",
+                "text_latin": "...huma",
+                "arti": "mereka llk berdua"
+            },
+            {
+                "text_arabic": "هِمَا",
+                "text_latin": "…hima",
+                "arti": "mereka llk berdua"
+            },
+            {
+                "text_arabic": "هُمْ",
+                "text_latin": "…hum",
+                "arti": "mereka lelaki"
+            },
+            {
+                "text_arabic": "هِمْ",
+                "text_latin": "…him",
+                "arti": "mereka lelaki"
+            },
+            {
+                "text_arabic": "هَا",
+                "text_latin": "…ha",
+                "arti": "dia wanita satu"
+            },
+            {
+                "text_arabic": "هُمَا",
+                "text_latin": "...huma",
+                "arti": "mereka wnt berdua"
+            },
+            {
+                "text_arabic": "هِمَا",
+                "text_latin": "…hima",
+                "arti": "mereka wnt berdua"
+            },
+            {
+                "text_arabic": "هُنَّ",
+                "text_latin": "…hunna",
+                "arti": "mereka wanita"
+            },
+            {
+                "text_arabic": "هِنَّ",
+                "text_latin": "…hinna",
+                "arti": "mereka wanita"
+            },
+            {
+                "text_arabic": "كَ",
+                "text_latin": "…ka",
+                "arti": "kamu llk 1"
+            },
+            {
+                "text_arabic": "كُمَا",
+                "text_latin": "…kuma",
+                "arti": "kalian llk berdua"
+            },
+            {
+                "text_arabic": "كُمْ",
+                "text_latin": "…kum",
+                "arti": "kalian lelaki"
+            },
+            {
+                "text_arabic": "كِ",
+                "text_latin": "…ki",
+                "arti": "kamu wnt satu"
+            },
+            {
+                "text_arabic": "كُمَا",
+                "text_latin": "…kuma",
+                "arti": "kalian wnt berdua"
+            },
+            {
+                "text_arabic": "كُنَّ",
+                "text_latin": "…kunna",
+                "arti": "kalian wanita"
+            },
+            {
+                "text_arabic": "يْ",
+                "text_latin": "yi",
+                "arti": "aku"
+            },
+            {
+                "text_arabic": "ي",
+                "text_latin": "ya",
+                "arti": "aku"
+            },
+            {
+                "text_arabic": "نِىيْ",
+                "text_latin": "niy",
+                "arti": "aku"
+            },
+            {
+                "text_arabic": "نَا",
+                "text_latin": "na",
+                "arti": "kami"
+            }
+        ]
+    },
+    {
+        "kolom": "26",
+        "sdr_arab": "ضَمِيْرٌ",
+        "sdr_kolom": "Dhomir(26)",
+        "items": [
+            {
+                "text_arabic": "إِيَّاهُ",
+                "text_latin": "iyyahu",
+                "arti": "hanya kepadanya lelaki"
+            },
+            {
+                "text_arabic": "إِيَّاهُمَا",
+                "text_latin": "iyyahuma",
+                "arti": "hanya kepadanya lelaki"
+            },
+            {
+                "text_arabic": "إِيَّاهُمْ",
+                "text_latin": "iyyahum",
+                "arti": "hanya kepada mereka lelaki"
+            },
+            {
+                "text_arabic": "إِيَّاهَا",
+                "text_latin": "iyyaha",
+                "arti": "hanya kepadanya wanita"
+            },
+            {
+                "text_arabic": "إِييَّاهُمَا",
+                "text_latin": "iyyahuma",
+                "arti": "hanya kepadanya wanita"
+            },
+            {
+                "text_arabic": "إِيَّاهُنَّ",
+                "text_latin": "iyyahunna",
+                "arti": "hanya kepada mereka wanita"
+            },
+            {
+                "text_arabic": "إِيَّاكَ",
+                "text_latin": "iyyaka",
+                "arti": "hanya kepadamu lelaki"
+            },
+            {
+                "text_arabic": "إِيَّاكُمَا",
+                "text_latin": "iyyakuma",
+                "arti": "hanya kepadamu lelaki"
+            },
+            {
+                "text_arabic": "إِيَّاكُمْ",
+                "text_latin": "iyyakum",
+                "arti": "hanya kepada kalian lelaki"
+            },
+            {
+                "text_arabic": "إِيَّاكِ",
+                "text_latin": "iyyaki",
+                "arti": "hanya kepadamu wanita"
+            },
+            {
+                "text_arabic": "إِيَّاكُمَا",
+                "text_latin": "iyyakuma",
+                "arti": "hanya kepadamu wanita"
+            },
+            {
+                "text_arabic": "إِيَّاكُنَّ",
+                "text_latin": "iyyakunna",
+                "arti": "hanya kepada kalian wanita"
+            },
+            {
+                "text_arabic": "إِيَّاي",
+                "text_latin": "iyyayak",
+                "arti": "hanya kepadaku"
+            },
+            {
+                "text_arabic": "إِيَّانَا",
+                "text_latin": "iyyana",
+                "arti": "hanya kepada kami"
+            }
+        ]
+    }
+]
