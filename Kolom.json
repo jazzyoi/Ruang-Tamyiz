@@ -1,0 +1,1102 @@
+{
+  "data": [
+    {
+      "Kolom": "1",
+      "Sdr_arab": "بٍجَرٍ",
+      "Sdr_kolom": "Bijarin(1)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDlf/Huruf%20Kolom%201%20Bijarin.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "بِ",
+          "Text_latin": "bi…",
+          "arti": "dengan"
+        },
+        {
+          "Text_arabic": "كَ",
+          "Text_latin": "ka…",
+          "arti": "seperti"
+        },
+        {
+          "Text_arabic": "لِ",
+          "Text_latin": "li…",
+          "arti": "untuk"
+        },
+        {
+          "Text_arabic": "لَ",
+          "Text_latin": "la…",
+          "arti": "untuk"
+        },
+        {
+          "Text_arabic": "اِلَى",
+          "Text_latin": "ila",
+          "arti": "kepada"
+        },
+        {
+          "Text_arabic": "اِلَىيْ",
+          "Text_latin": "ilay…",
+          "arti": "kepada"
+        },
+        {
+          "Text_arabic": "ءَلَ",
+          "Text_latin": "ala",
+          "arti": "di atas"
+        },
+        {
+          "Text_arabic": "ءَلَييْ",
+          "Text_latin": "alay…",
+          "arti": "di atas"
+        },
+        {
+          "Text_arabic": "مِنْ",
+          "Text_latin": "min",
+          "arti": "dari"
+        },
+        {
+          "Text_arabic": "فِ",
+          "Text_latin": "fi",
+          "arti": "di dalam"
+        },
+        {
+          "Text_arabic": "فِييْ",
+          "Text_latin": "fiy…",
+          "arti": "di dalam"
+        },
+        {
+          "Text_arabic": "عَنْ",
+          "Text_latin": "an…",
+          "arti": "dari"
+        },
+        {
+          "Text_arabic": "حَتَّي",
+          "Text_latin": "hatta",
+          "arti": "sehingga"
+        },
+        {
+          "Text_arabic": "بِ",
+          "Text_latin": "bi…",
+          "arti": "demi"
+        },
+        {
+          "Text_arabic": "تَ",
+          "Text_latin": "ta…",
+          "arti": "demi"
+        },
+        {
+          "Text_arabic": "وَ",
+          "Text_latin": "wa…",
+          "arti": "demi"
+        }
+      ]
+    },
+    {
+      "Kolom": "2",
+      "Sdr_arab": "كَانَ رَفَعُ نَصَبَ",
+      "Sdr_kolom": "Kana rofau nasoba(2)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDhf/Huruf%20kolom%202%20kana%20rofau%20nasoba.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "كَانَ",
+          "Text_latin": "kana",
+          "arti": "adalah"
+        },
+        {
+          "Text_arabic": "لَيْسَ",
+          "Text_latin": "laisa",
+          "arti": "tiada bukan"
+        }
+      ]
+    },
+    {
+      "Kolom": "3",
+      "Sdr_arab": "اِنَّ نَصَبَ رَفَعُ",
+      "Sdr_kolom": "Inna Nasoba Rofau(3)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDdf/Huruf%20kolom%203%20inna%20nasoba%20rofa%26%2339%3Bu.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "اِنَّ",
+          "Text_latin": "inna",
+          "arti": "sesungguhnya"
+        },
+        {
+          "Text_arabic": "اَنَّ",
+          "Text_latin": "anna",
+          "arti": "sesungguhnya"
+        },
+        {
+          "Text_arabic": "كَأَنَّ",
+          "Text_latin": "kaanna",
+          "arti": "seakan akan"
+        },
+        {
+          "Text_arabic": "لَكِنَّ",
+          "Text_latin": "lakinna",
+          "arti": "akan tetapi"
+        },
+        {
+          "Text_arabic": "لَعّلَّ",
+          "Text_latin": "laalla",
+          "arti": "semoga"
+        },
+        {
+          "Text_arabic": "لَعَلَّ",
+          "Text_latin": "laalla",
+          "arti": "supaya"
+        },
+        {
+          "Text_arabic": "لَيْتَ",
+          "Text_latin": "laita",
+          "arti": "andaikan"
+        }
+      ]
+    },
+    {
+      "Kolom": "4",
+      "Sdr_arab": "لَا نَصَبَ لِلنَّكِرَة",
+      "Sdr_kolom": "La Nasoba linnakiroh(4)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDZf/Huruf%20kolom%204%20la%20nasoba%20linnakirah.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "لَا",
+          "Text_latin": "laa",
+          "arti": "tidak ada"
+        }
+      ]
+    },
+    {
+      "Kolom": "5",
+      "Sdr_arab": "إِلَّا نَصَبَ لِلْمُسْتَشْنَاء",
+      "Sdr_kolom": "Illa nasoba lilmustashna(5)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDVf/Huruf%20kolom%205%20illa%20nasoba%20lilmustatsna.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "إِلَّا",
+          "Text_latin": "illa",
+          "arti": "kecuali"
+        }
+      ]
+    },
+    {
+      "Kolom": "6",
+      "Sdr_arab": "يَا نَصَبَ لِلْمُضَاف",
+      "Sdr_kolom": "Ya nasoba lilmudhof(6)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDRf/Huruf%20kolom%206%20ya%20nasoba%20lilmudhof.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "يَا",
+          "Text_latin": "yaa",
+          "arti": "wahai"
+        }
+      ]
+    },
+    {
+      "Kolom": "7",
+      "Sdr_arab": "يَانِدَاءٌ",
+      "Sdr_kolom": "Ya nida(7)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDBf/Huruf%20Kolom%207%20Yanida.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "يَا",
+          "Text_latin": "yaa",
+          "arti": "wahai"
+        },
+        {
+          "Text_arabic": "يَا أَيُّحَا",
+          "Text_latin": "ya ayyuha",
+          "arti": "wahai"
+        },
+        {
+          "Text_arabic": "يَا أَيَّتُهَا",
+          "Text_latin": "ya ayyatuha",
+          "arti": "wahai"
+        }
+      ]
+    },
+    {
+      "Kolom": "8",
+      "Sdr_arab": "اَ نْ يَنْصِبَ",
+      "Sdr_kolom": "Ayyansiba(8)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDNf/Huruf%20kolom%208%20Anyansiba.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "اَنْ",
+          "Text_latin": "an",
+          "arti": "hendaknya"
+        },
+        {
+          "Text_arabic": "لَنْ",
+          "Text_latin": "lan",
+          "arti": "tidak akan"
+        },
+        {
+          "Text_arabic": "اِزَنْ",
+          "Text_latin": "izan",
+          "arti": "kalau demikian"
+        },
+        {
+          "Text_arabic": "كَى",
+          "Text_latin": "ka",
+          "arti": "supaya"
+        },
+        {
+          "Text_arabic": "لِ  ...",
+          "Text_latin": "li",
+          "arti": "supaya"
+        },
+        {
+          "Text_arabic": "حَتَّي",
+          "Text_latin": "hatta",
+          "arti": "hingga"
+        }
+      ]
+    },
+    {
+      "Kolom": "9",
+      "Sdr_arab": "لَا تَجْذُمْ",
+      "Sdr_kolom": "La Tajzum(9)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDJf/Huruf%20kolom%209%20Latajzum.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "لاَ",
+          "Text_latin": "laa",
+          "arti": "janganlah"
+        }
+      ]
+    },
+    {
+      "Kolom": "10",
+      "Sdr_arab": "لَمْ يَجْزُمْ",
+      "Sdr_kolom": "Lam yajzum(10)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NDFf/Huruf%20Kolom%2010%20Lamyajzum.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "لَمْ",
+          "Text_latin": "lam",
+          "arti": "tidak"
+        },
+        {
+          "Text_arabic": "لَمَّا",
+          "Text_latin": "lamma",
+          "arti": "tidak"
+        },
+        {
+          "Text_arabic": "لِ",
+          "Text_latin": "li…",
+          "arti": "hendaklah"
+        },
+        {
+          "Text_arabic": "وَلْ",
+          "Text_latin": "wal…",
+          "arti": "hendaklah"
+        },
+        {
+          "Text_arabic": "فَلْ",
+          "Text_latin": "fal…",
+          "arti": "hendaklah"
+        }
+      ]
+    },
+    {
+      "Kolom": "11",
+      "Sdr_arab": "اَلثَّرْطُ",
+      "Sdr_kolom": "Ashshartu(11)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzhf/Kolom%2011%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "إِنْ",
+          "Text_latin": "in",
+          "arti": "jika"
+        },
+        {
+          "Text_arabic": "مَنْ",
+          "Text_latin": "man",
+          "arti": "siapa"
+        },
+        {
+          "Text_arabic": "مَا",
+          "Text_latin": "ma",
+          "arti": "apa"
+        },
+        {
+          "Text_arabic": "أَيْنَمَا",
+          "Text_latin": "ainama",
+          "arti": "kemanapun"
+        },
+        {
+          "Text_arabic": "حَيْشُمَا",
+          "Text_latin": "haisuma",
+          "arti": "dimanapun"
+        },
+        {
+          "Text_arabic": "مَهْمَا",
+          "Text_latin": "mahma",
+          "arti": "bagaimanapun juga"
+        }
+      ]
+    },
+    {
+      "Kolom": "12",
+      "Sdr_arab": "اَلْاءِ سْتِثْنَءْ",
+      "Sdr_kolom": "Al istishna(12)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzdf/Kolom%2012%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "إِلاَّ",
+          "Text_latin": "illa",
+          "arti": "kecuali"
+        },
+        {
+          "Text_arabic": "اَلاَّ",
+          "Text_latin": "alla",
+          "arti": "hendaklah"
+        },
+        {
+          "Text_arabic": "اَلاَّ",
+          "Text_latin": "alla",
+          "arti": "janganlah"
+        },
+        {
+          "Text_arabic": "كَلَّا",
+          "Text_latin": "kalla",
+          "arti": "sekali kali janganlah"
+        }
+      ]
+    },
+    {
+      "Kolom": "13",
+      "Sdr_arab": "اَلْعَطْفُ",
+      "Sdr_kolom": "Al atfu(13)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4MzZf/Huruf%20Kolom%2013%20al%20atfu.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "وَ",
+          "Text_latin": "wa",
+          "arti": "dan"
+        },
+        {
+          "Text_arabic": "اَوْ",
+          "Text_latin": "aw",
+          "arti": "atau"
+        },
+        {
+          "Text_arabic": "فَ",
+          "Text_latin": "fa…",
+          "arti": "maka"
+        },
+        {
+          "Text_arabic": "اَمْ",
+          "Text_latin": "am",
+          "arti": "atau"
+        },
+        {
+          "Text_arabic": "اَمَّا",
+          "Text_latin": "amma",
+          "arti": "adapun"
+        },
+        {
+          "Text_arabic": "ثُمَّ",
+          "Text_latin": "summa",
+          "arti": "kemudian"
+        },
+        {
+          "Text_arabic": "بَلْ",
+          "Text_latin": "bal",
+          "arti": "bahkan"
+        },
+        {
+          "Text_arabic": "حَتَّي",
+          "Text_latin": "hatta",
+          "arti": "sehingga"
+        },
+        {
+          "Text_arabic": "لَكِنْ",
+          "Text_latin": "lakin",
+          "arti": "akan tetapi"
+        }
+      ]
+    },
+    {
+      "Kolom": "14",
+      "Sdr_arab": "اَلثَّرْطُ",
+      "Sdr_kolom": "Ashshartu(14)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4MzVf/Huruf%20Kolom%2014%20asyartu.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "إِذْ",
+          "Text_latin": "iz",
+          "arti": "jika"
+        },
+        {
+          "Text_arabic": "إِذَا",
+          "Text_latin": "iza",
+          "arti": "jika"
+        },
+        {
+          "Text_arabic": "إِزَنْ",
+          "Text_latin": "izan",
+          "arti": "jika"
+        },
+        {
+          "Text_arabic": "إِمَّا",
+          "Text_latin": "imma",
+          "arti": "jika tidak"
+        },
+        {
+          "Text_arabic": "أَمَّا",
+          "Text_latin": "amma",
+          "arti": "adapun"
+        },
+        {
+          "Text_arabic": "لَمَّا",
+          "Text_latin": "lamma",
+          "arti": "ketika"
+        },
+        {
+          "Text_arabic": "لَوْ",
+          "Text_latin": "lau",
+          "arti": "jikalau"
+        },
+        {
+          "Text_arabic": "لَوْلَا",
+          "Text_latin": "lawla",
+          "arti": "mengapa tidak"
+        },
+        {
+          "Text_arabic": "لَوْمَا",
+          "Text_latin": "lauma",
+          "arti": "mengapa tidak"
+        }
+      ]
+    },
+    {
+      "Kolom": "15",
+      "Sdr_arab": "اَلْاءِ سْتِفْهَامْ",
+      "Sdr_kolom": "Al istifham(15)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzlf/Kolom%2015%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "أ",
+          "Text_latin": "a",
+          "arti": "apakah"
+        },
+        {
+          "Text_arabic": "أَلَا",
+          "Text_latin": "ala",
+          "arti": "ingatlah"
+        },
+        {
+          "Text_arabic": "أَيُّ",
+          "Text_latin": "ayyu",
+          "arti": "siapakah"
+        },
+        {
+          "Text_arabic": "أَيْنَ",
+          "Text_latin": "aina",
+          "arti": "dimana"
+        },
+        {
+          "Text_arabic": "مَا",
+          "Text_latin": "ma",
+          "arti": "apakah"
+        },
+        {
+          "Text_arabic": "مَنْ",
+          "Text_latin": "man",
+          "arti": "siapakah"
+        },
+        {
+          "Text_arabic": "مَتَى",
+          "Text_latin": "mata",
+          "arti": "kapan"
+        },
+        {
+          "Text_arabic": "كَمْ",
+          "Text_latin": "kam",
+          "arti": "berapa"
+        },
+        {
+          "Text_arabic": "كَيْفَ",
+          "Text_latin": "kaifa",
+          "arti": "bagaimana"
+        },
+        {
+          "Text_arabic": "هَلْ",
+          "Text_latin": "hal",
+          "arti": "apakah"
+        },
+        {
+          "Text_arabic": "مَازَا",
+          "Text_latin": "maza",
+          "arti": "apakah"
+        },
+        {
+          "Text_arabic": "لِمَ",
+          "Text_latin": "lima",
+          "arti": "kenapa"
+        },
+        {
+          "Text_arabic": "لِمَازَا",
+          "Text_latin": "limaza",
+          "arti": "kenapa"
+        }
+      ]
+    },
+    {
+      "Kolom": "16",
+      "Sdr_arab": "اَلتَّوْكِيْدُ",
+      "Sdr_kolom": "At taukid(16)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzlf/Kolom%2015%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "لَ",
+          "Text_latin": "la",
+          "arti": "sungguh"
+        },
+        {
+          "Text_arabic": "قَدْ",
+          "Text_latin": "qad",
+          "arti": "sungguh"
+        },
+        {
+          "Text_arabic": "لَقَدْ",
+          "Text_latin": "laqad",
+          "arti": "sungguh"
+        }
+      ]
+    },
+    {
+      "Kolom": "17",
+      "Sdr_arab": "أَلْاءِسْتِقْبَالُ",
+      "Sdr_kolom": "Al istiqbal(17)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzlf/Kolom%2015%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "سَ",
+          "Text_latin": "sa",
+          "arti": "akan"
+        },
+        {
+          "Text_arabic": "سَوْفَ",
+          "Text_latin": "saufa",
+          "arti": "akan"
+        }
+      ]
+    },
+    {
+      "Kolom": "18",
+      "Sdr_arab": "أَلنَّافِ",
+      "Sdr_kolom": "An nafi(18)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzlf/Kolom%2015%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "مَا",
+          "Text_latin": "ma",
+          "arti": "bukan/tidak"
+        },
+        {
+          "Text_arabic": "لَا",
+          "Text_latin": "laa",
+          "arti": "bukan"
+        }
+      ]
+    },
+    {
+      "Kolom": "19",
+      "Sdr_arab": "no nama",
+      "Sdr_kolom": "noname(19)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mzlf/Kolom%2015%20Tamyiz.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "نِعْمَ",
+          "Text_latin": "nikma",
+          "arti": "sebaik baik"
+        },
+        {
+          "Text_arabic": "بِئْسَ",
+          "Text_latin": "biksa",
+          "arti": "sejelek jelek"
+        }
+      ]
+    },
+    {
+      "Kolom": "20",
+      "Sdr_arab": "ظَرَفْ",
+      "Sdr_kolom": "zhorof(20)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4NzRf/HURUF%20KOLOM%2020%20%20DHZOROF.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "قَبْلَ",
+          "Text_latin": "qabla",
+          "arti": "sebelum"
+        },
+        {
+          "Text_arabic": "بَعْدَ",
+          "Text_latin": "bakda",
+          "arti": "sesudah"
+        },
+        {
+          "Text_arabic": "غَيْرَ",
+          "Text_latin": "gaira",
+          "arti": "Selain"
+        },
+        {
+          "Text_arabic": "دُوْنَ",
+          "Text_latin": "duna",
+          "arti": "bukan"
+        },
+        {
+          "Text_arabic": "أَمَامَ",
+          "Text_latin": "amama",
+          "arti": "di depan"
+        },
+        {
+          "Text_arabic": "وَرَاء",
+          "Text_latin": "waraa",
+          "arti": "di belakang"
+        },
+        {
+          "Text_arabic": "خَلْفَ",
+          "Text_latin": "halfa",
+          "arti": "di belakang"
+        },
+        {
+          "Text_arabic": "فَوْقَ",
+          "Text_latin": "fawqa",
+          "arti": "di atas"
+        },
+        {
+          "Text_arabic": "تَحْتَ",
+          "Text_latin": "tahta",
+          "arti": "di bawah"
+        },
+        {
+          "Text_arabic": "جَانِبَ",
+          "Text_latin": "janiba",
+          "arti": "di samping"
+        },
+        {
+          "Text_arabic": "حَوْلَ",
+          "Text_latin": "haula",
+          "arti": "di sekitar"
+        },
+        {
+          "Text_arabic": "كُلَّ",
+          "Text_latin": "kulla",
+          "arti": "setiap"
+        },
+        {
+          "Text_arabic": "مَعَ",
+          "Text_latin": "maa",
+          "arti": "beserta"
+        },
+        {
+          "Text_arabic": "عِنْدَ",
+          "Text_latin": "inda",
+          "arti": "di sisi"
+        },
+        {
+          "Text_arabic": "بَيْنَ",
+          "Text_latin": "baina",
+          "arti": "diantara"
+        }
+      ]
+    },
+    {
+      "Kolom": "21",
+      "Sdr_arab": "مَوْصُوْل",
+      "Sdr_kolom": "Mausul(21)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4MzRf/Huruf%20Kolom%2021%20mausul.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "الَّزِى",
+          "Text_latin": "allazi",
+          "arti": "orang yang"
+        },
+        {
+          "Text_arabic": "الَّزَانِ",
+          "Text_latin": "allazani",
+          "arti": "orang yang"
+        },
+        {
+          "Text_arabic": "الَّزِيْنَ",
+          "Text_latin": "allazina",
+          "arti": "orang yang"
+        },
+        {
+          "Text_arabic": "الَّتِ",
+          "Text_latin": "allati",
+          "arti": "orang yang"
+        },
+        {
+          "Text_arabic": "الَّتَانِ",
+          "Text_latin": "allatani",
+          "arti": "orang yang"
+        },
+        {
+          "Text_arabic": "اَلَّاتِى",
+          "Text_latin": "allatiy",
+          "arti": "orang yang"
+        },
+        {
+          "Text_arabic": "مَا",
+          "Text_latin": "ma",
+          "arti": "apa yang"
+        },
+        {
+          "Text_arabic": "مَنْ",
+          "Text_latin": "man",
+          "arti": "siapa yang"
+        }
+      ]
+    },
+    {
+      "Kolom": "22",
+      "Sdr_arab": "اِثَسارَهْ",
+      "Sdr_kolom": "Isharoh(22)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4MzNf/Huruf%20Kolom%2022%20isyaroh.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "ذّلِكَ",
+          "Text_latin": "zalika",
+          "arti": "itu"
+        },
+        {
+          "Text_arabic": "ذّلِكُمَا",
+          "Text_latin": "zalikuma",
+          "arti": "itu"
+        },
+        {
+          "Text_arabic": "ذَلِكُمْ",
+          "Text_latin": "zalikum",
+          "arti": "itu"
+        },
+        {
+          "Text_arabic": "تِلْكَ",
+          "Text_latin": "tilka",
+          "arti": "itu"
+        },
+        {
+          "Text_arabic": "تِلْكُمَا",
+          "Text_latin": "tilkuma",
+          "arti": "itu"
+        },
+        {
+          "Text_arabic": "تِلْكُمْ",
+          "Text_latin": "tilkum",
+          "arti": "itu"
+        },
+        {
+          "Text_arabic": "اُولَئِكَ",
+          "Text_latin": "ulaika",
+          "arti": "mereka itu"
+        }
+      ]
+    },
+    {
+      "Kolom": "23",
+      "Sdr_arab": "اِثَسارَهْ",
+      "Sdr_kolom": "Isharoh(23)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4MzJf/Huruf%20Kolom%2023%20isyaroh.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "هَاذَا",
+          "Text_latin": "haza",
+          "arti": "ini satu"
+        },
+        {
+          "Text_arabic": "هَذَانِ",
+          "Text_latin": "hazani",
+          "arti": "ini dua"
+        },
+        {
+          "Text_arabic": "هَئُ لَاءِ",
+          "Text_latin": "haulai",
+          "arti": "mereka ini"
+        },
+        {
+          "Text_arabic": "هَاذِهِ",
+          "Text_latin": "hazihi",
+          "arti": "ini satu"
+        },
+        {
+          "Text_arabic": "هَتَانِ",
+          "Text_latin": "hatani",
+          "arti": "ini dua"
+        },
+        {
+          "Text_arabic": "هَئُلَاءِ",
+          "Text_latin": "haula'i",
+          "arti": "mereka ini"
+        }
+      ]
+    },
+    {
+      "Kolom": "24",
+      "Sdr_arab": "ضَمِيْرٌ",
+      "Sdr_kolom": "Dhomir(24)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ5MDRf/Huruf%2024%20%20Dhomir.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "هُوَ",
+          "Text_latin": "huwa",
+          "arti": "lelaki satu"
+        },
+        {
+          "Text_arabic": "هُمَا",
+          "Text_latin": "huma",
+          "arti": "lelaki dua"
+        },
+        {
+          "Text_arabic": "هُمْ",
+          "Text_latin": "hum",
+          "arti": "mereka lelaki"
+        },
+        {
+          "Text_arabic": "هِيَا",
+          "Text_latin": "hiya",
+          "arti": "wanita satu"
+        },
+        {
+          "Text_arabic": "هُمَا",
+          "Text_latin": "huma",
+          "arti": "wanita dua"
+        },
+        {
+          "Text_arabic": "هُنَّ",
+          "Text_latin": "hunna",
+          "arti": "mereka wanita"
+        },
+        {
+          "Text_arabic": "اَنْتَ",
+          "Text_latin": "anta",
+          "arti": "kamu lelaki satu"
+        },
+        {
+          "Text_arabic": "اَنْتُمَا",
+          "Text_latin": "antuma",
+          "arti": "kamu lelaki dua"
+        },
+        {
+          "Text_arabic": "اَنْتُمْ",
+          "Text_latin": "antum",
+          "arti": "kalian lelaki"
+        },
+        {
+          "Text_arabic": "اَنْتِ",
+          "Text_latin": "anti",
+          "arti": "kamu wanita satu"
+        },
+        {
+          "Text_arabic": "اَنْتُمَا",
+          "Text_latin": "antuma",
+          "arti": "kamu wanita dua"
+        },
+        {
+          "Text_arabic": "اَنْتُنَّ",
+          "Text_latin": "antunna",
+          "arti": "kalian wanita"
+        },
+        {
+          "Text_arabic": "اَنَا",
+          "Text_latin": "ana",
+          "arti": "saya"
+        },
+        {
+          "Text_arabic": "نَحْنُ",
+          "Text_latin": "nahnu",
+          "arti": "kami"
+        }
+      ]
+    },
+    {
+      "Kolom": "25",
+      "Sdr_arab": "ضَمِيْرٌ",
+      "Sdr_kolom": "Dhomir(25)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4MzBf/Huruf%20Kolom%2025%20Dhomir.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "هُى",
+          "Text_latin": "…hu",
+          "arti": "Dia llk satu"
+        },
+        {
+          "Text_arabic": "هِى",
+          "Text_latin": "…hi",
+          "arti": "Dia llk satu"
+        },
+        {
+          "Text_arabic": "هُمَا",
+          "Text_latin": "...huma",
+          "arti": "mereka llk berdua"
+        },
+        {
+          "Text_arabic": "هِمَا",
+          "Text_latin": "…hima",
+          "arti": "mereka llk berdua"
+        },
+        {
+          "Text_arabic": "هُمْ",
+          "Text_latin": "…hum",
+          "arti": "mereka lelaki"
+        },
+        {
+          "Text_arabic": "هِمْ",
+          "Text_latin": "…him",
+          "arti": "mereka lelaki"
+        },
+        {
+          "Text_arabic": "هَا",
+          "Text_latin": "…ha",
+          "arti": "dia wanita satu"
+        },
+        {
+          "Text_arabic": "هُمَا",
+          "Text_latin": "...huma",
+          "arti": "mereka wnt berdua"
+        },
+        {
+          "Text_arabic": "هِمَا",
+          "Text_latin": "…hima",
+          "arti": "mereka wnt berdua"
+        },
+        {
+          "Text_arabic": "هُنَّ",
+          "Text_latin": "…hunna",
+          "arti": "mereka wanita"
+        },
+        {
+          "Text_arabic": "هِنَّ",
+          "Text_latin": "…hinna",
+          "arti": "mereka wanita"
+        },
+        {
+          "Text_arabic": "كَ",
+          "Text_latin": "…ka",
+          "arti": "kamu llk 1"
+        },
+        {
+          "Text_arabic": "كُمَا",
+          "Text_latin": "…kuma",
+          "arti": "kalian llk berdua"
+        },
+        {
+          "Text_arabic": "كُمْ",
+          "Text_latin": "…kum",
+          "arti": "kalian lelaki"
+        },
+        {
+          "Text_arabic": "كِ",
+          "Text_latin": "…ki",
+          "arti": "kamu wnt satu"
+        },
+        {
+          "Text_arabic": "كُمَا",
+          "Text_latin": "…kuma",
+          "arti": "kalian wnt berdua"
+        },
+        {
+          "Text_arabic": "كُنَّ",
+          "Text_latin": "…kunna",
+          "arti": "kalian wanita"
+        },
+        {
+          "Text_arabic": "يْ",
+          "Text_latin": "yi",
+          "arti": "aku"
+        },
+        {
+          "Text_arabic": "ي",
+          "Text_latin": "ya",
+          "arti": "aku"
+        },
+        {
+          "Text_arabic": "نِىيْ",
+          "Text_latin": "niy",
+          "arti": "aku"
+        },
+        {
+          "Text_arabic": "نَا",
+          "Text_latin": "na",
+          "arti": "kami"
+        }
+      ]
+    },
+    {
+      "Kolom": "26",
+      "Sdr_arab": "ضَمِيْرٌ",
+      "Sdr_kolom": "Dhomir(26)",
+      "Link_Voice": "https://od.lk/s/NjNfMzg3ODQ4Mjlf/Huruf%20Kolom%2026%20Dhomir.mp3",
+      "Kata": [
+        {
+          "Text_arabic": "إِيَّاهُ",
+          "Text_latin": "iyyahu",
+          "arti": "hanya kepadanya lelaki"
+        },
+        {
+          "Text_arabic": "إِيَّاهُمَا",
+          "Text_latin": "iyyahuma",
+          "arti": "hanya kepadanya lelaki"
+        },
+        {
+          "Text_arabic": "إِيَّاهُمْ",
+          "Text_latin": "iyyahum",
+          "arti": "hanya kepada mereka lelaki"
+        },
+        {
+          "Text_arabic": "إِيَّاهَا",
+          "Text_latin": "iyyaha",
+          "arti": "hanya kepadanya wanita"
+        },
+        {
+          "Text_arabic": "إِييَّاهُمَا",
+          "Text_latin": "iyyahuma",
+          "arti": "hanya kepadanya wanita"
+        },
+        {
+          "Text_arabic": "إِيَّاهُنَّ",
+          "Text_latin": "iyyahunna",
+          "arti": "hanya kepada mereka wanita"
+        },
+        {
+          "Text_arabic": "إِيَّاكَ",
+          "Text_latin": "iyyaka",
+          "arti": "hanya kepadamu lelaki"
+        },
+        {
+          "Text_arabic": "إِيَّاكُمَا",
+          "Text_latin": "iyyakuma",
+          "arti": "hanya kepadamu lelaki"
+        },
+        {
+          "Text_arabic": "إِيَّاكُمْ",
+          "Text_latin": "iyyakum",
+          "arti": "hanya kepada kalian lelaki"
+        },
+        {
+          "Text_arabic": "إِيَّاكِ",
+          "Text_latin": "iyyaki",
+          "arti": "hanya kepadamu wanita"
+        },
+        {
+          "Text_arabic": "إِيَّاكُمَا",
+          "Text_latin": "iyyakuma",
+          "arti": "hanya kepadamu wanita"
+        },
+        {
+          "Text_arabic": "إِيَّاكُنَّ",
+          "Text_latin": "iyyakunna",
+          "arti": "hanya kepada kalian wanita"
+        },
+        {
+          "Text_arabic": "إِيَّاي",
+          "Text_latin": "iyyayak",
+          "arti": "hanya kepadaku"
+        },
+        {
+          "Text_arabic": "إِيَّانَا",
+          "Text_latin": "iyyana",
+          "arti": "hanya kepada kami"
+        }
+      ]
+    }
+  ]
+}
